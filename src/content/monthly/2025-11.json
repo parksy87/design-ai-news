@@ -1,0 +1,279 @@
+{
+  "period": "2025-11",
+  "label": "2025년 11월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "amazon-creative-agent-unboxed",
+      "eventKey": "amazon-creative-agent-ga-2025",
+      "title": "Amazon Creative Agent, 통합 광고 콘솔과 스트리밍 TV 제작으로 확대",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-11-11",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/unboxed-2025-creative-agent"
+        }
+      ],
+      "summary": "Amazon Ads가 9월 공개한 생성 에이전트를 Creative Agent로 정식 소개하고 통합 광고 콘솔과 스트리밍 TV 광고 제작까지 확장했다. 대화형 지시로 디스플레이·영상·오디오 변형을 무료로 만들 수 있다.",
+      "changes": "Creative Studio 베타에서 광고 콘솔의 다형식 캠페인 제작 도구로 범위가 확대됐다.",
+      "application": "자동 생성된 장면·나레이션의 상품 효능과 가격 표현을 검수하고 형식별 안전 영역·자막 규격을 별도 확인한다.",
+      "tags": [
+        "Amazon Ads",
+        "Creative Agent",
+        "스트리밍TV"
+      ],
+      "history": [
+        {
+          "date": "2025-11-11",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-sponsored-products-video",
+      "eventKey": "amazon-sponsored-products-video-2025",
+      "title": "Amazon Sponsored Products에 기능별 인터랙티브 영상 추가",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-11-11",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/unboxed-2025-sponsored-products-video"
+        }
+      ],
+      "summary": "Amazon이 상품 하나에 1~5개 기능 영상을 올리고 검색·탐색 맥락에 맞는 최대 3개 썸네일을 보여주는 Sponsored Products video를 발표했다. 이용자는 관심 기능으로 바로 이동한 뒤 상세페이지를 방문할 수 있다.",
+      "changes": "정적 상품 광고에서 여러 기능을 구조화해 탐색하는 인터랙티브 영상 형식으로 확장됐다.",
+      "application": "핵심 기능을 3개 이내로 우선순위화하고 썸네일만 봐도 차이가 드러나도록 장면·짧은 설명을 설계한다.",
+      "tags": [
+        "Amazon Ads",
+        "Sponsored Products",
+        "제품영상"
+      ],
+      "history": [
+        {
+          "date": "2025-11-11",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-gemini-3-firefly-photoshop",
+      "eventKey": "adobe-gemini-3-nano-banana-pro-2025",
+      "title": "Adobe Firefly·Photoshop에 Gemini 3 이미지 모델 통합",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-11-20",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2025/11/20/google-gemini-3-nano-banana-pro-firefly-photoshop"
+        }
+      ],
+      "summary": "Adobe가 Gemini 3의 Nano Banana Pro를 Firefly와 Photoshop에 추가했다. 부분 편집, 비율·해상도·카메라·조명 조정, 이미지 속 텍스트와 현지화 성능을 강조했으며 Firefly Boards에서도 캠페인 시각화에 사용할 수 있다.",
+      "changes": "8월 Gemini 2.5 Flash Image 도입 뒤 더 정교한 편집과 텍스트 렌더링을 제공하는 상위 모델 선택지가 추가됐다.",
+      "application": "한글 패키지·가격표는 생성 후 원본과 글자 단위로 대조하고 최종 광고 파일에는 편집 가능한 텍스트 레이어를 유지한다.",
+      "tags": [
+        "Adobe",
+        "Gemini 3",
+        "Photoshop"
+      ],
+      "history": [
+        {
+          "date": "2025-11-20",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-mobile-ai-product-images",
+      "eventKey": "shopify-mobile-ai-images-nov-2025",
+      "title": "Shopify 모바일 앱, 상품 사진을 팩샷·마케팅 이미지로 변환",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-11-13",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/enhanced-ai-image-generation-and-editing-on-the-shopify-mobile-app"
+        }
+      ],
+      "summary": "Shopify 모바일 앱이 자연어로 상품 사진을 자르고 재배치하며 배경 제거, 파일명·ALT 수정과 마케팅 장면 생성을 지원했다. 촬영 후 모바일에서 바로 팩샷과 홍보용 변형을 만들 수 있다.",
+      "changes": "기본 배경 편집에서 상품 자산 관리와 장면 생성까지 모바일 워크플로가 확장됐다.",
+      "application": "현장 촬영 이미지는 원본을 보존하고 AI 변형본을 별도 버전으로 저장해 상품 색상·크기 왜곡 여부를 비교한다.",
+      "tags": [
+        "Shopify",
+        "모바일",
+        "상품사진"
+      ],
+      "history": [
+        {
+          "date": "2025-11-13",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-ads-analytics-advisors",
+      "eventKey": "google-ads-analytics-advisors-2025",
+      "title": "Google, Ads Advisor와 Analytics Advisor 발표",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2025-11-12",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/ads-advisor-and-analytics-advisor/"
+        }
+      ],
+      "summary": "Google이 Gemini 기반 Ads Advisor와 Analytics Advisor를 12월 영어 계정에 제공한다고 발표했다. 캠페인 진단, 계절 행사 아이디어·자산 생성, 정책 비승인 원인 파악과 승인 후 수정 적용을 지원한다.",
+      "changes": "질문에 답하는 분석 도우미에서 계정 맥락을 학습하고 사용 승인 후 변경을 실행하는 에이전트로 발전했다.",
+      "application": "자동 제안은 변경 이력과 승인자를 남기고 예산·URL·정책 수정은 운영 체크리스트를 통과한 뒤 적용한다.",
+      "tags": [
+        "Google Ads",
+        "Gemini",
+        "광고에이전트"
+      ],
+      "history": [
+        {
+          "date": "2025-11-12",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-video-generator-expansion",
+      "eventKey": "amazon-video-generator-nine-markets-2025",
+      "title": "Amazon Sponsored Brands Video Generator 9개 시장 확대",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-11-11",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/video-generator-for-sponsored-brands-video-campaigns"
+        }
+      ],
+      "summary": "Amazon Ads가 상품 이미지·영상과 상세페이지 정보를 바탕으로 15초 영상 최대 6개를 만드는 Video Generator를 9개 시장으로 확대했다. 제목·폰트·색·로고 위치를 편집할 수 있다.",
+      "changes": "미국 중심 기능이 유럽·인도 등으로 넓어지고 상품 상세정보를 활용한 자동 다장면 영상 제작이 보편화됐다.",
+      "application": "해외 판매용 상세페이지의 잘못된 문구가 영상에 재사용되지 않도록 ASIN 정보부터 정리하고 현지어 자막을 검수한다.",
+      "tags": [
+        "Amazon Ads",
+        "Video Generator",
+        "Sponsored Brands"
+      ],
+      "history": [
+        {
+          "date": "2025-11-11",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-black-friday-cyber-monday-2025",
+      "eventKey": "amazon-bfcm-event-2025",
+      "title": "Amazon, 12일간 Black Friday Week·Cyber Monday 행사 발표",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-11-09",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Press Center",
+          "url": "https://press.aboutamazon.com/2025/11/its-the-season-for-savings-amazons-black-friday-week-and-cyber-monday-deal-events-offer-deep-discounts-on-customer-favorite-brands-from-november-20-through-december-1"
+        }
+      ],
+      "summary": "Amazon이 11월 20일부터 12월 1일까지 Black Friday Week와 Cyber Monday 딜을 연속 운영한다고 발표했다. 카테고리별 할인과 저가 선물, 식료품, Prime Video 스포츠를 묶어 장기간 방문 이유를 만들었다.",
+      "changes": "하루 중심 행사보다 여러 카테고리와 콘텐츠를 연결한 12일 연속 프로모션 구조가 강화됐다.",
+      "application": "국내 장기 행사도 매일 같은 메인 배너를 쓰기보다 카테고리·혜택·콘텐츠 훅을 날짜별로 교체하고 종료일을 명확히 표시한다.",
+      "tags": [
+        "Amazon",
+        "Black Friday",
+        "Cyber Monday"
+      ],
+      "history": [
+        {
+          "date": "2025-11-09",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-homepage-hero-redesign",
+      "eventKey": "amazon-homepage-hero-unboxed-2025",
+      "title": "Amazon 홈 히어로 광고를 풀스크린 릴형으로 재설계",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-11-12",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/homepage-hero-placements-on-the-amazon-store-unboxed-2025"
+        }
+      ],
+      "summary": "Amazon Ads가 홈 히어로에 5~100% 점유 패키지, 6개 오디언스 세그먼트와 풀스크린 릴형 디자인을 도입했다. 정적·영상 소재를 지원하고 프리미엄 면의 진입 단가 선택 폭을 넓혔다.",
+      "changes": "고정 대형 배너에서 세로형 몰입 레이아웃과 세분화된 점유·오디언스 패키지로 바뀌었다.",
+      "application": "첫 화면에 한 메시지와 한 상품군만 남기고 세로 크롭에서 로고·CTA가 가려지지 않는 마스터 자산을 준비한다.",
+      "tags": [
+        "Amazon Ads",
+        "홈히어로",
+        "릴형광고"
+      ],
+      "history": [
+        {
+          "date": "2025-11-12",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

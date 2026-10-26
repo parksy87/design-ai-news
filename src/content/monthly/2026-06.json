@@ -1,0 +1,291 @@
+{
+  "period": "2026-06",
+  "label": "2026년 6월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "openai-codex-creative-production-plugin",
+      "eventKey": "openai-codex-creative-plugin-2026",
+      "title": "Codex 크리에이티브 플러그인, 광고 변형·이커머스 이미지 세트 지원",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-06-02",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/codex-for-every-role-tool-workflow/"
+        }
+      ],
+      "summary": "OpenAI는 Figma, Canva, Shutterstock, Picsart, Fal 등을 묶어 캠페인 보드, 디스플레이 광고 변형, 제품 라이프스타일 컷과 이커머스 이미지 세트를 만드는 Codex creative production plugin을 발표했다. 마케터·디자이너용 역할별 워크플로다.",
+      "changes": "Codex가 개발 중심 도구에서 여러 디자인 서비스를 조율하는 크리에이티브 제작 환경으로 확장됐다.",
+      "application": "반복 배너 리사이즈와 제품 배경 변형을 맡기되 도구별 라이선스와 최종 승인본의 출처를 기록한다.",
+      "tags": [
+        "OpenAI Codex",
+        "광고 변형",
+        "이커머스 이미지",
+        "플러그인"
+      ],
+      "history": [
+        {
+          "date": "2026-06-02",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "canva-chatgpt-codex-design",
+      "eventKey": "canva-chatgpt-codex-2026",
+      "title": "Canva, ChatGPT·Codex 안에서 브랜드 디자인 생성·편집 지원",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-06-03",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Canva Newsroom",
+          "url": "https://www.canva.com/newsroom/news/deep-research-integration-mcp-server/"
+        }
+      ],
+      "summary": "Canva는 ChatGPT 안에서 디자인을 생성·미리보기·편집하고 Brand Kit을 적용하는 기능과 Codex용 Canva 플러그인을 발표했다. 대화 맥락을 편집 가능한 Canva 디자인으로 이어준다.",
+      "changes": "AI 채팅 결과를 다운로드해 옮기던 과정이 대화 안의 실시간 디자인 생성과 브랜드 적용으로 단축됐다.",
+      "application": "채팅에서 만든 프로모션 초안은 Canva에서 가격·쿠폰 조건·한글 폰트와 모바일 가독성을 최종 검수한다.",
+      "tags": [
+        "Canva",
+        "ChatGPT",
+        "Codex",
+        "Brand Kit"
+      ],
+      "history": [
+        {
+          "date": "2026-06-03",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "canva-magic-layers-chatgpt-gemini",
+      "eventKey": "canva-magic-layers-assistants-2026",
+      "title": "Canva Magic Layers, ChatGPT·Gemini에서 전 사용자 제공",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-06-08",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Canva Newsroom",
+          "url": "https://www.canva.com/newsroom/news/magic-layers-ai-assistants/"
+        }
+      ],
+      "summary": "Canva는 ChatGPT와 Gemini에서 생성한 이미지를 바로 편집 가능한 Canva 레이어로 바꾸는 Magic Layers를 전 사용자에게 제공했다. 텍스트·객체·배경을 분리해 재배치, 수정, 리사이즈할 수 있다.",
+      "changes": "3월 제한 지역 공개 베타에서 주요 AI 어시스턴트 내부의 전 사용자 워크플로로 확대됐다.",
+      "application": "AI 포스터를 레이어화한 뒤 카피를 실제 텍스트로 교체하고 채널별 안전영역에 맞춰 재배치한다.",
+      "tags": [
+        "Canva",
+        "Magic Layers",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "history": [
+        {
+          "date": "2026-06-08",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-creative-cloud-june-updates-2026",
+      "eventKey": "adobe-creative-cloud-2026-06",
+      "title": "Lightroom·Premiere·Photoshop 등 Creative Cloud 제작 자동화 확대",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-06-15",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/06/15/from-culling-to-compositing-new-creative-cloud-innovations-across-every-stage-of-your-workflow"
+        }
+      ],
+      "summary": "Adobe는 Lightroom Assisted Culling 정식 제공, Firefly·Google Veo 기반 Photo to Video, Topaz AI Sharpen 등 Creative Cloud 업데이트를 발표했다. 사진 선별부터 보정·모션 제작까지 반복 작업을 줄이는 기능들이다.",
+      "changes": "촬영 후 선별, 선명화, 정적 사진의 영상화가 앱 안의 AI 작업으로 통합됐다.",
+      "application": "상품 촬영본 선별 기준을 눈 뜸보다 초점·제품 각도·라벨 가독성 중심으로 설정하고 자동 추천을 사람이 재검수한다.",
+      "tags": [
+        "Adobe Lightroom",
+        "Photo to Video",
+        "AI Sharpen",
+        "상품 촬영"
+      ],
+      "history": [
+        {
+          "date": "2026-06-15",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-firefly-studio-elements-projects",
+      "eventKey": "adobe-firefly-studio-agent-2026-06",
+      "title": "Firefly, 재사용 Elements·Projects와 Creative Cloud AI Assistant 확대",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-06-18",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog — Firefly Studio",
+          "url": "https://blog.adobe.com/en/publish/2026/06/18/adobe-firefly-introduces-new-agentic-capabilities-and-an-upgraded-creative-ai-studio-built-for-the-way-you-work"
+        },
+        {
+          "name": "Adobe Blog — Creative Cloud AI Assistant",
+          "url": "https://blog.adobe.com/en/publish/2026/06/18/more-time-spend-on-your-craft-adobe-brings-power-creative-agent-creative-cloud-apps"
+        }
+      ],
+      "summary": "Adobe는 캐릭터·장소·객체를 반복 사용하는 Elements와 자산·생성 이력을 묶는 Projects를 포함한 새 Firefly Studio 비공개 베타를 공개했다. 동시에 Premiere, Photoshop, Illustrator, InDesign, Frame.io의 AI Assistant 확대를 발표했다.",
+      "changes": "단일 세션 생성에서 캠페인 문맥과 자산을 지속적으로 보존하는 프로젝트형 제작으로 발전했다.",
+      "application": "시즌 캠페인의 제품·모델·배경을 Elements로 구분하고 채널별 변형을 하나의 Project에서 버전 관리한다.",
+      "tags": [
+        "Adobe Firefly",
+        "Elements",
+        "Projects",
+        "AI Assistant"
+      ],
+      "history": [
+        {
+          "date": "2026-06-18",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-cannes-brand-experience-case",
+      "eventKey": "adobe-cannes-2026-design-case",
+      "title": "Adobe, Cannes Lions 브랜드 경험 제작 사례 공개",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2026-06-19",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/06/19/from-idea-impact-how-adobe-built-cohesive-experience-cannes-lions-2026-using-own-tool"
+        }
+      ],
+      "summary": "Adobe는 Cannes Lions 2026 현장 경험을 ‘From idea to impact’로 통일하고 Firefly Boards, Frame.io, Creative Cloud를 이용해 제작한 과정을 공개했다. Boards로 더 많은 시각 방향과 변형을 탐색했다.",
+      "changes": "행사 브랜딩 사례에서 AI 탐색과 협업·검수 도구를 하나의 경험 설계 과정으로 연결했다.",
+      "application": "여름 팝업·페스티벌 프로모션은 키비주얼, 공간 사인, 소셜 소재를 하나의 보드에서 동시에 검토해 일관성을 유지한다.",
+      "tags": [
+        "Cannes Lions",
+        "브랜드 경험",
+        "Firefly Boards",
+        "시즌 프로모션"
+      ],
+      "history": [
+        {
+          "date": "2026-06-19",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "canva-grow-2",
+      "eventKey": "canva-grow-2-2026",
+      "title": "Canva Grow 2.0, 광고 생성·집행·성과 학습 통합",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2026-06-24",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Canva Newsroom",
+          "url": "https://www.canva.com/newsroom/news/canva-grow/"
+        }
+      ],
+      "summary": "Canva는 웹사이트의 제품 이미지·브랜드 색상·잠재고객 신호와 기존 성과를 바탕으로 정적·영상 광고를 만들고 집행·최적화까지 연결하는 Grow 2.0을 발표했다. Magic Layers로 생성 광고를 Canva 편집기로 넘길 수 있다.",
+      "changes": "광고 디자인 도구가 제작에 그치지 않고 성과 데이터를 이용한 자동 새 버전 생성까지 닫힌 루프를 구성했다.",
+      "application": "전환 성과가 좋은 요소를 학습 입력으로 쓰되 할인율·상품 효익 같은 핵심 변수는 별도 실험군으로 통제한다.",
+      "tags": [
+        "Canva Grow",
+        "광고 자동화",
+        "성과 최적화",
+        "Magic Layers"
+      ],
+      "history": [
+        {
+          "date": "2026-06-24",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "figma-weave-product-shoots",
+      "eventKey": "figma-weave-tools-2026",
+      "title": "Figma Weave, 제품 촬영·이커머스 이미지 AI 워크플로 제공",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2026-06-24",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Figma Blog",
+          "url": "https://www.figma.com/blog/connecting-figma-and-weave/"
+        }
+      ],
+      "summary": "Figma는 Design 왼쪽 패널에서 스타일 변환, 제품 촬영, 재질 추출 등 20개 이상 Weave AI 이미지 작업을 공개 베타로 제공했다. 다각도 제품 컷, 자동 광고, 패션 시각화 같은 재사용 워크플로를 Community에 공유할 수 있다.",
+      "changes": "Figma 프레임 안에서 고정 프롬프트가 아닌 반복 실행 가능한 생성 워크플로를 직접 사용·공유하게 됐다.",
+      "application": "제품 촬영 워크플로를 SKU 템플릿으로 만들고 결과를 상세페이지 컴포넌트와 같은 파일에서 비교·승인한다.",
+      "tags": [
+        "Figma Weave",
+        "제품 촬영",
+        "이커머스",
+        "워크플로"
+      ],
+      "history": [
+        {
+          "date": "2026-06-24",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

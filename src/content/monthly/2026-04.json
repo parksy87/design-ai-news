@@ -1,0 +1,330 @@
+{
+  "period": "2026-04",
+  "label": "2026년 4월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "firefly-precision-flow-ai-markup",
+      "eventKey": "adobe-firefly-precision-editing-2026",
+      "title": "Adobe Firefly, Precision Flow와 AI Markup 편집 도입",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-04-09",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/04/09/new-image-editing-features-adobe-firefly-get-you-from-almost-there-to-exactly-right"
+        }
+      ],
+      "summary": "Adobe는 생성하거나 업로드한 이미지의 구도·스타일·세부 요소를 정밀하게 다듬는 Precision Flow와 표시 영역에 지시하는 AI Markup을 Firefly에 도입했다. 생성 후 수정 제어를 강화한 업데이트다.",
+      "changes": "전체 이미지를 다시 생성하는 방식에서 원하는 영역과 속성을 지정해 수정하는 흐름으로 발전했다.",
+      "application": "상세페이지 연출 컷에서 배경 소품만 수정하고 제품 본체는 원본 마스크로 보호하는 편집 규칙을 만든다.",
+      "tags": [
+        "Adobe Firefly",
+        "AI Markup",
+        "이미지 편집",
+        "상품 이미지"
+      ],
+      "history": [
+        {
+          "date": "2026-04-09",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "merchant-center-specification-2026",
+      "eventKey": "google-merchant-spec-2026",
+      "title": "Merchant Center, 상품 영상 링크와 배송 속성 신설",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2026-04-14",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/16989427?hl=en"
+        }
+      ],
+      "summary": "구글은 handling_cutoff_time, minimum_order_value, 로열티 배송 라벨과 선택형 video_link 속성을 추가했다. 2027년부터 상품 이미지 최소 해상도를 500×500으로 높이기 위한 경고도 시작했다.",
+      "changes": "상품 피드가 이미지 중심에서 영상, 주문 마감, 최소 주문액, 회원 배송 혜택까지 확장됐다.",
+      "application": "국내 쇼핑몰도 500px 이상 원본 이미지와 제품 사용·다각도 영상을 준비하고 피드 값과 상세페이지 배송 정보를 일치시킨다.",
+      "tags": [
+        "Merchant Center",
+        "상품 피드",
+        "제품 영상",
+        "이미지 규격"
+      ],
+      "history": [
+        {
+          "date": "2026-04-14",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-firefly-video-editor-kling",
+      "eventKey": "adobe-firefly-video-premiere-2026-04",
+      "title": "Firefly Video Editor에 Kling 3.0·Adobe Stock·오디오 보정 추가",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-04-15",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/04/15/adobe-extends-leadership-video-unleashing-new-ai-powered-creation-firefly-reinventing-color-editors-in-premiere"
+        }
+      ],
+      "summary": "Adobe는 Firefly Video Editor에 Kling 3.0·Omni 모델, Enhance Speech 등 오디오 보정과 8억 개 이상 Adobe Stock 자산 검색을 통합했다. Premiere에는 편집자 중심 Color Mode 베타를 발표했다.",
+      "changes": "생성 영상, 라이선스 스톡, 오디오 정리, 편집을 브라우저 타임라인에서 연결했다.",
+      "application": "쇼츠 광고 제작 시 생성 컷과 라이선스 컷의 출처를 구분하고 음성·배경음 권리 정보를 납품 파일에 남긴다.",
+      "tags": [
+        "Firefly Video Editor",
+        "Kling",
+        "Adobe Stock",
+        "영상 광고"
+      ],
+      "history": [
+        {
+          "date": "2026-04-15",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "canva-ai-2-launch",
+      "eventKey": "canva-ai-2-2026",
+      "title": "Canva AI 2.0, 편집 가능한 다채널 캠페인 생성 공개",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-04-16",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Canva Newsroom",
+          "url": "https://www.canva.com/newsroom/news/canva-create-2026-ai/"
+        }
+      ],
+      "summary": "Canva는 대화형 디자인, 에이전트 편집, 레이어 객체 지능, 지속 메모리를 결합한 Canva AI 2.0 연구 프리뷰를 발표했다. 단일 요청으로 브랜드가 반영된 다채널 캠페인을 편집 가능한 요소로 생성한다.",
+      "changes": "정적 이미지 생성에서 기획·디자인·브랜드 적용·반복 편집을 지속하는 에이전트형 환경으로 확장됐다.",
+      "application": "제품 출시 브리프에서 채널별 초안을 만들고 가격·CTA·쿠폰 조건은 공통 데이터 원본에서 최종 치환한다.",
+      "tags": [
+        "Canva AI 2.0",
+        "다채널 캠페인",
+        "에이전트",
+        "브랜드"
+      ],
+      "history": [
+        {
+          "date": "2026-04-16",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "pomelli-europe-expansion",
+      "eventKey": "google-pomelli-europe-2026",
+      "title": "Google Pomelli, 유럽 중소기업으로 확대",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2026-04-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Labs",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-in-europe/"
+        }
+      ],
+      "summary": "Google Labs는 웹사이트에서 브랜드의 보이스·폰트·색상을 분석하고 제품 이미지와 소셜·웹·광고 자산을 생성하는 Pomelli를 유럽 주요 지역에 영어로 확대했다. 생성 자산은 도구 안에서 편집·다운로드할 수 있다.",
+      "changes": "제한된 실험에서 더 넓은 지역의 중소기업용 브랜드 콘텐츠 제작 도구로 확장됐다.",
+      "application": "웹사이트의 로고, 색상, 제품 설명을 최신 상태로 유지해 자동 브랜드 분석의 입력 품질을 높인다.",
+      "tags": [
+        "Google Labs",
+        "Pomelli",
+        "SMB",
+        "브랜드 콘텐츠"
+      ],
+      "history": [
+        {
+          "date": "2026-04-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "chatgpt-images-2",
+      "eventKey": "openai-chatgpt-images-2-2026",
+      "title": "OpenAI, ChatGPT Images 2.0 발표",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-04-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-0/"
+        }
+      ],
+      "summary": "OpenAI는 새로운 세대의 이미지 생성 경험인 ChatGPT Images 2.0을 공식 발표했다. 제품·광고 비주얼을 대화형으로 만들고 수정하는 이미지 워크플로의 세대 교체를 알린 발표다.",
+      "changes": "ChatGPT의 이미지 생성 경험이 2.0 세대로 업데이트됐다.",
+      "application": "제품 이미지 초안과 배경 콘셉트 탐색에 쓰되 실물 색상, 패키지 텍스트, 인물 권리와 상표를 별도 검수한다.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Images",
+        "이미지 생성",
+        "광고 비주얼"
+      ],
+      "history": [
+        {
+          "date": "2026-04-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "firefly-ai-assistant-public-beta",
+      "eventKey": "adobe-firefly-ai-assistant-2026",
+      "title": "Firefly AI Assistant 공개 베타 시작",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-04-27",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog — 공개 베타",
+          "url": "https://blog.adobe.com/en/publish/2026/04/27/firefly-ai-assistant-public-beta"
+        },
+        {
+          "name": "Adobe Blog — 기능 소개",
+          "url": "https://blog.adobe.com/en/publish/2026/04/15/introducing-firefly-ai-assistant-new-way-create-with-our-creative-agent"
+        }
+      ],
+      "summary": "Adobe는 원하는 결과를 자연어로 설명하면 Firefly, Photoshop, Premiere 등에서 여러 단계를 실행하는 Firefly AI Assistant 공개 베타를 시작했다. 유료 Firefly와 Creative Cloud Pro 고객에게 순차 제공됐다.",
+      "changes": "개별 생성·편집 명령을 넘어 여러 Creative Cloud 도구를 조율하는 결과 중심 에이전트가 제공됐다.",
+      "application": "제품 사진에서 채널별 소셜 자산을 만드는 반복 작업을 맡기되 각 단계의 원본 보존과 승인 책임자를 지정한다.",
+      "tags": [
+        "Adobe Firefly",
+        "AI Assistant",
+        "에이전트",
+        "Creative Cloud"
+      ],
+      "history": [
+        {
+          "date": "2026-04-27",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-creativity-connector-claude",
+      "eventKey": "adobe-creative-connector-claude-2026",
+      "title": "Adobe 크리에이티브 커넥터, Claude에서 50개 이상 도구 제공",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-04-28",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/04/28/adobe-for-creativity-connector"
+        }
+      ],
+      "summary": "Adobe는 Claude 안에서 Photoshop, Illustrator, Firefly, Express, Premiere 등 50개 이상 전문 도구를 호출하는 Adobe for creativity connector를 전 세계에 출시했다. Adobe 로그인 시 더 높은 한도와 작업 저장을 지원한다.",
+      "changes": "Creative Cloud 작업이 Adobe 앱 내부뿐 아니라 외부 AI 대화 인터페이스에서도 실행되기 시작했다.",
+      "application": "외부 AI에서 생성한 자산은 프로젝트명·버전·권리 정보를 붙여 Creative Cloud의 원본 자산과 연결한다.",
+      "tags": [
+        "Adobe",
+        "Claude",
+        "커넥터",
+        "Creative Cloud"
+      ],
+      "history": [
+        {
+          "date": "2026-04-28",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-ai-max-shopping",
+      "eventKey": "google-ai-max-shopping-2026",
+      "title": "Google AI Max for Shopping, 대화형 검색용 광고 문구·랜딩 자동화",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2026-04-30",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog — Shopping",
+          "url": "https://blog.google/products/ads-commerce/ai-max-for-shopping/"
+        },
+        {
+          "name": "Google Ads & Commerce Blog — AI Max",
+          "url": "https://blog.google/products/ads-commerce/ai-max-new-features/"
+        }
+      ],
+      "summary": "구글은 Merchant Center 피드로 대화형 검색 의도에 맞는 문구를 만들고 적절한 랜딩페이지와 텍스트·쇼핑 형식을 선택하는 AI Max for Shopping을 발표했다. AI Brief로 메시지·매칭·잠재고객 가이드도 설정할 수 있다.",
+      "changes": "정확한 상품 검색어 중심 광고에서 제품 속성을 활용한 긴 질문형 의도 대응으로 확장됐다.",
+      "application": "소재·착용감·내구성 같은 속성을 피드와 상세페이지에 구체적으로 넣고 자동 확장 랜딩의 적합성을 점검한다.",
+      "tags": [
+        "Google Ads",
+        "AI Max",
+        "Shopping",
+        "Merchant Center"
+      ],
+      "history": [
+        {
+          "date": "2026-04-30",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

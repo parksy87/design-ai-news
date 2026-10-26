@@ -1,0 +1,317 @@
+{
+  "period": "2025-10",
+  "label": "2025년 10월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "google-shopping-misrepresentation-clarification",
+      "eventKey": "google-shopping-misrepresentation-oct-2025",
+      "title": "Google, 쇼핑 광고 허위 진술 정책의 배송·환불 예시 보강",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2025-10-10",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/16608300"
+        },
+        {
+          "name": "Search Engine Land",
+          "url": "https://searchengineland.com/google-updates-misrepresentation-policy-for-shopping-ads-and-free-listings-463266"
+        }
+      ],
+      "summary": "Google이 Shopping Ads와 무료 목록의 허위 진술 정책에 미배송과 작동하지 않는 반품·환불 절차 예시를 추가했다. 집행 기준 변경이 아니라 준수·이의신청 안내를 명확히 한 업데이트다.",
+      "changes": "새 금지 조항을 만든 것이 아니라 기존 집행 범위의 구체적 사례와 지원 절차를 보강했다.",
+      "application": "상세페이지의 배송 예정일·반품 주소·환불 기한이 실제 고객센터 절차와 일치하는지 정기적으로 증빙 점검한다.",
+      "tags": [
+        "Google Shopping",
+        "허위진술",
+        "반품정책"
+      ],
+      "history": [
+        {
+          "date": "2025-10-10",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-pomelli-beta",
+      "eventKey": "google-pomelli-2025",
+      "title": "Google Labs, 브랜드 DNA 기반 캠페인 생성 도구 Pomelli 공개",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-10-28",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli/"
+        }
+      ],
+      "summary": "Google Labs와 DeepMind가 웹사이트에서 어조·폰트·이미지·색을 추출해 Business DNA를 만들고 캠페인 아이디어와 자산을 생성하는 Pomelli를 공개했다. 영어권 4개국에서 공개 베타로 시작했다.",
+      "changes": "일반 프롬프트 생성보다 기존 웹사이트의 브랜드 맥락을 자동 추출해 결과를 제한하는 흐름을 제시했다.",
+      "application": "국내 사용 가능 여부와 무관하게 브랜드 가이드 입력 전 웹사이트의 오래된 로고·색상·문구를 먼저 정리해야 한다.",
+      "tags": [
+        "Pomelli",
+        "Google Labs",
+        "브랜드AI"
+      ],
+      "history": [
+        {
+          "date": "2025-10-28",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-advertising-week-ai-commerce",
+      "eventKey": "meta-advertising-week-2025",
+      "title": "Meta, 광고·메시지·웹사이트를 잇는 Business AI 발표",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-10-02",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta for Business",
+          "url": "https://www.facebook.com/business/news/advertising-week-2025"
+        }
+      ],
+      "summary": "Meta가 Advertising Week에서 광고 발견부터 메시지와 웹사이트 구매까지 안내하는 Business AI를 발표했다. 영상 최적화와 전환을 위한 생성형 AI·크리에이터 도구도 함께 공개했다.",
+      "changes": "광고 소재 생성 지원에서 고객 질문 응답과 구매 안내를 수행하는 판매 에이전트로 범위가 넓어졌다.",
+      "application": "한국 브랜드는 자동 응답이 가격·배송·효능을 잘못 안내하지 않도록 승인된 FAQ와 상담 전환 조건을 먼저 설계한다.",
+      "tags": [
+        "Meta",
+        "Business AI",
+        "대화형커머스"
+      ],
+      "history": [
+        {
+          "date": "2025-10-02",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-demand-gen-october-drop",
+      "eventKey": "google-demand-gen-oct-2025",
+      "title": "Google Demand Gen에 신규 고객 목표·AI 영상·상품 피드 강화",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-10-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2025/"
+        }
+      ],
+      "summary": "Google이 Demand Gen에 신규 고객 획득 목표, iOS 딥링크, 목표 CPC, AI 영상 생성과 상품 피드 활용 개선을 발표했다. YouTube에서 상품 피드를 가상 매장처럼 쓰는 방향을 강조했다.",
+      "changes": "상단 퍼널 영상 캠페인에서 입찰 비교와 앱 연결, 상품 단위 전환까지 통합 범위가 넓어졌다.",
+      "application": "영상 첫 2초에 상품과 핵심 효익을 노출하고 피드 가격·재고와 랜딩 정보를 일치시킨 뒤 신규 고객 목표를 별도 측정한다.",
+      "tags": [
+        "Demand Gen",
+        "YouTube Ads",
+        "상품피드"
+      ],
+      "history": [
+        {
+          "date": "2025-10-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-ai-packshot-backgrounds",
+      "eventKey": "shopify-file-editor-ai-oct-2025",
+      "title": "Shopify 파일 편집기에 프롬프트형 배경·조명 수정 추가",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-10-09",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/improved-ai-image-editing-features-in-the-file-editor"
+        }
+      ],
+      "summary": "Shopify가 파일 편집기의 Generate 패널에서 장면과 조명을 자연어로 바꾸는 기능을 추가했다. 스튜디오 팩샷 스타일 같은 배경 지시를 관리 화면에서 바로 적용할 수 있다.",
+      "changes": "정해진 배경 옵션 선택에서 자유로운 자연어 기반 장면·조명 편집으로 확장됐다.",
+      "application": "SKU 전체에 동일한 조명 방향·그림자 강도 프롬프트를 적용하고 제품 외곽 왜곡을 확대 검수한다.",
+      "tags": [
+        "Shopify",
+        "팩샷",
+        "AI편집"
+      ],
+      "history": [
+        {
+          "date": "2025-10-09",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-sponsored-brands-reserve-sov",
+      "eventKey": "amazon-sponsored-brands-reserve-sov-2025",
+      "title": "Amazon, 브랜드 검색 최상단 점유율 예약 기능 출시",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-10-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/sponsored-brands-reserve-share-of-voice"
+        }
+      ],
+      "summary": "Amazon Ads가 브랜드 키워드의 Sponsored Brands 최상단 노출을 고정 선불 가격으로 예약하는 share of voice 기능을 출시했다. 추천 키워드, 실시간 가격과 셀프서비스 관리를 제공한다.",
+      "changes": "경매 결과에 따라 변하던 브랜드 검색 가시성을 일정 기간 예측 가능한 예약형 상품으로 보완했다.",
+      "application": "신제품·시즌 행사 때 브랜드 검색량이 높은 기간만 예약하고 최상단 소재와 Brand Store 첫 화면 메시지를 통일한다.",
+      "tags": [
+        "Amazon Ads",
+        "Sponsored Brands",
+        "검색점유율"
+      ],
+      "history": [
+        {
+          "date": "2025-10-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-localized-prime-video-ads",
+      "eventKey": "amazon-prime-video-localized-ads-2025",
+      "title": "Prime Video 광고에 지역별 가격·URL 변형 기능 도입",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-10-31",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/location-based-interactive-video-ads-on-prime-video"
+        }
+      ],
+      "summary": "Amazon Ads가 하나의 TV 광고를 우편번호·주 단위 가격, 지점 정보와 클릭 URL로 변형하는 Prime Video 인터랙티브 광고를 발표했다. 여러 영상을 따로 만들지 않고 템플릿에서 지역화를 처리한다.",
+      "changes": "전국 공통 영상 한 편에서 지역 메시지와 랜딩을 동적으로 바꾸는 방식으로 확장됐다.",
+      "application": "한국 지역 캠페인은 가격 차등의 법적·운영 근거를 확인하고 지점별 URL과 재고가 틀릴 때 사용할 기본 소재를 준비한다.",
+      "tags": [
+        "Prime Video",
+        "지역화",
+        "인터랙티브광고"
+      ],
+      "history": [
+        {
+          "date": "2025-10-31",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-holiday-retail-report-2025",
+      "eventKey": "shopify-holiday-retail-report-2025",
+      "title": "Shopify, AI 발견과 진정성 중심의 연말 소비 변화 발표",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-10-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify News",
+          "url": "https://www.shopify.com/news/global-holiday-retail-report-2025"
+        }
+      ],
+      "summary": "Shopify의 글로벌 연말 보고서는 응답자의 64%가 쇼핑에 AI 도구를 사용할 계획이며 26%는 9월 말까지 쇼핑을 시작한다고 밝혔다. AI 발견, 화면·매장 간 이동과 진정성 있는 브랜드 경험을 핵심 변화로 제시했다.",
+      "changes": "연말 구매 여정에 검색·소셜뿐 아니라 AI 추천과 더 이른 탐색 단계가 주요 접점으로 부상했다.",
+      "application": "상품 설명을 AI가 인용하기 쉬운 사실형 문장으로 정리하고 10월 이전부터 선물 목적·예산별 탐색 콘텐츠를 배치한다.",
+      "tags": [
+        "Shopify",
+        "연말쇼핑",
+        "소비자조사"
+      ],
+      "history": [
+        {
+          "date": "2025-10-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "nordstrom-oh-what-fun-campaign",
+      "eventKey": "nordstrom-holiday-campaign-2025",
+      "title": "Nordstrom, 유머와 향수를 결합한 Oh, What Fun! 캠페인 공개",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-10-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Nordstrom",
+          "url": "https://nordstrom.gcs-web.com/static-files/0629a1bb-a5b5-4ab6-a82f-cc3b1c7c0a38"
+        }
+      ],
+      "summary": "Nordstrom이 배우 Kyle MacLachlan을 Gift Expert로 내세운 연말 캠페인을 공개했다. 스트리밍 TV, TikTok·Instagram, 인쇄 카탈로그, 매장 선물숍과 이벤트를 같은 이야기로 연결했다.",
+      "changes": "단순 선물 목록보다 쇼핑객 유형을 캐릭터화한 서사와 온·오프라인 접점 통합을 강화했다.",
+      "application": "국내 시즌 캠페인도 조기 구매자·막판 구매자·셀프 기프트 등 실제 고객 유형별 장면을 만들되 채널마다 동일한 핵심 캐릭터를 유지한다.",
+      "tags": [
+        "Nordstrom",
+        "브랜드사례",
+        "홀리데이캠페인"
+      ],
+      "history": [
+        {
+          "date": "2025-10-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

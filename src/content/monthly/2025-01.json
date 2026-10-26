@@ -1,0 +1,252 @@
+{
+  "period": "2025-01",
+  "label": "2025년 1월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "amazon-event-based-bid-rules",
+      "eventKey": "amazon-ads-event-bid-rules-2025",
+      "title": "Amazon Ads, 쇼핑 성수기 이벤트 기반 입찰 규칙 출시",
+      "category": "시즌·프로모션",
+      "priority": "high",
+      "publishedAt": "2025-01-02",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/event-based-bid-rules-for-sponsored-products-advertisers"
+        }
+      ],
+      "summary": "Amazon Ads가 Sponsored Products 캠페인에서 쇼핑 트래픽이 높아지는 이벤트에 맞춰 입찰가 인상을 미리 설정하는 기능을 출시했다. 기존의 수동 조정과 국가별 이벤트 일정 추적을 자동화한다.",
+      "changes": "성수기마다 입찰가를 직접 바꾸던 방식에서 사전 정의 이벤트별 자동 규칙 방식으로 바뀌었다.",
+      "application": "한국 판매자는 일본 등 지원 마켓의 프라임데이·연말 행사 일정을 기준으로 입찰 상한과 증액률을 미리 설계하고 행사 후 ROAS를 비교한다.",
+      "tags": [
+        "Amazon Ads",
+        "입찰",
+        "성수기",
+        "Sponsored Products"
+      ],
+      "history": [
+        {
+          "date": "2025-01-02",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "ftc-accessibe-ai-claims-order",
+      "eventKey": "ftc-accessibe-ai-accessibility-claims-2025",
+      "title": "FTC, AI 웹 접근성 과장 주장과 위장 리뷰에 제재",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2025-01-03",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Federal Trade Commission",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-order-requires-online-marketer-pay-1-million-deceptive-claims-its-ai-product-could-make-websites"
+        }
+      ],
+      "summary": "FTC는 accessiBe가 AI 도구만으로 모든 웹사이트를 WCAG 준수 상태로 만들 수 있다고 오인시켰다고 판단해 100만 달러 지급 명령안을 발표했다. 회사와 이해관계가 있는 리뷰를 독립적 평가처럼 보이게 한 점도 문제로 지적했다.",
+      "changes": "AI 기능과 접근성 준수 효과를 광고할 때 객관적 근거와 리뷰어의 이해관계 공개가 명시적으로 요구됐다.",
+      "application": "상세페이지 제작·검수 도구의 '자동 규정 준수' 문구는 검증 범위와 한계를 함께 표시하고 협찬 리뷰에는 경제적 관계를 눈에 띄게 고지한다.",
+      "tags": [
+        "FTC",
+        "AI 광고",
+        "접근성",
+        "리뷰 고지"
+      ],
+      "history": [
+        {
+          "date": "2025-01-03",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "ftc-hr-block-free-advertising",
+      "eventKey": "ftc-hr-block-free-claims-2025",
+      "title": "FTC, H&R Block의 '무료' 광고와 다운그레이드 절차 시정",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2025-01-08",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Federal Trade Commission",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-finalizes-order-hr-block-requiring-them-pay-7-million-overhaul-advertising-customer-service"
+        }
+      ],
+      "summary": "FTC는 H&R Block에 700만 달러 지급과 함께 유료 상품에서 더 저렴한 상품으로 쉽게 변경할 수 있도록 명령했다. '무료' 광고에는 실제 이용 자격 비율 또는 다수가 자격이 없다는 사실을 공개해야 한다.",
+      "changes": "무료 혜택을 전면에 내세우는 것만으로는 부족하며 적용 대상의 실질적 범위를 함께 표시해야 한다.",
+      "application": "무료배송·무료체험 배너에는 조건, 제외 대상, 자동 유료 전환 여부를 첫 화면과 결제 단계에서 반복해 명확히 제시한다.",
+      "tags": [
+        "FTC",
+        "무료 광고",
+        "다크패턴",
+        "고지"
+      ],
+      "history": [
+        {
+          "date": "2025-01-08",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-retail-ad-service",
+      "eventKey": "amazon-retail-ad-service-beta-2025",
+      "title": "Amazon, 외부 쇼핑몰용 Retail Ad Service 베타 공개",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-01-09",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/library/news/retail-ad-service-announcement"
+        }
+      ],
+      "summary": "Amazon Ads가 소매업체 자체 검색·탐색·상품 페이지에 문맥형 상품 광고를 게재할 수 있는 AWS 기반 서비스를 공개했다. 소매업체가 광고 형식, 위치, 수량과 클릭 이후의 상품 페이지·퀵뷰·장바구니 경로를 결정한다.",
+      "changes": "Amazon 내부 지면 중심이던 리테일 광고 기술이 참여 소매업체의 자체 쇼핑몰 지면으로 확장됐다.",
+      "application": "리테일 미디어를 운영하는 쇼핑몰은 재고·가격이 포함된 카드형 광고를 검색 결과와 PDP에 배치하되 일반 상품과 광고의 시각적 구분을 유지한다.",
+      "tags": [
+        "리테일 미디어",
+        "Amazon Ads",
+        "상품 광고",
+        "PDP"
+      ],
+      "history": [
+        {
+          "date": "2025-01-09",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "photoshop-live-coediting-beta",
+      "eventKey": "photoshop-live-coediting-2025",
+      "title": "Photoshop, 실시간 공동 편집 비공개 베타 시작",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2025-01-14",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2025/01/14/photoshop-unlocks-creative-collaboration-with-live-co-editing-join-private-beta"
+        }
+      ],
+      "summary": "Adobe가 Photoshop 데스크톱 베타와 웹에서 여러 사용자가 한 문서를 동시에 편집하는 Live Co-Editing 비공개 베타를 시작했다. 같은 발표에서 생성형 채우기·확장·유사 이미지 생성에 최신 Firefly Image Model 적용도 확인했다.",
+      "changes": "순차 파일 전달과 코멘트 중심 협업에서 동일 문서 동시 편집 방식으로 전환할 수 있게 됐다.",
+      "application": "상세페이지 제작 시 제품 누끼, 배경 합성, 카피 배치를 담당자별로 나눠 동시 작업하고 승인자는 같은 파일에서 피드백한다.",
+      "tags": [
+        "Photoshop",
+        "협업",
+        "Firefly",
+        "이미지 편집"
+      ],
+      "history": [
+        {
+          "date": "2025-01-14",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "ftc-coppa-targeted-ad-opt-in",
+      "eventKey": "ftc-coppa-final-rule-2025",
+      "title": "FTC, 아동 데이터 기반 타깃 광고에 별도 부모 동의 확정",
+      "category": "정책·규정",
+      "priority": "normal",
+      "publishedAt": "2025-01-16",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Federal Trade Commission",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-finalizes-changes-childrens-privacy-rule-limiting-companies-ability-monetize-kids-data"
+        }
+      ],
+      "summary": "FTC가 COPPA 규칙 개정을 확정해 아동 개인정보를 타깃 광고 등 제3자 제공에 쓰려면 별도의 검증 가능한 부모 동의를 받도록 했다. 불필요한 장기 보관 금지와 생체정보의 개인정보 포함도 명시했다.",
+      "changes": "일반 서비스 동의와 광고 목적 제3자 제공 동의를 묶는 방식이 제한되고 데이터 최소화 의무가 강화됐다.",
+      "application": "아동 대상 상품몰은 행동 기반 추천·리타기팅 태그를 기본 비활성화하고 보호자 동의 화면을 별도 단계로 설계한다.",
+      "tags": [
+        "COPPA",
+        "아동 개인정보",
+        "타깃 광고",
+        "동의"
+      ],
+      "history": [
+        {
+          "date": "2025-01-16",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "pinterest-palette-2025",
+      "eventKey": "pinterest-palette-2025",
+      "title": "Pinterest, 검색·저장 데이터 기반 2025 컬러 팔레트 발표",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-01-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Pinterest Newsroom",
+          "url": "https://newsroom.pinterest.com/en-gb/news/from-butter-yellow-to-cherry-red-meet-the-2025-pinterest-palette/"
+        }
+      ],
+      "summary": "Pinterest가 2025년 주요 색으로 Cherry Red, Butter Yellow, Aura Indigo, Dill Green, Alpine Oat를 발표했다. 검색·저장·쇼핑 행동과 시각 검색 기술을 바탕으로 크리에이티브와 머천다이징 활용을 제안했다.",
+      "changes": "연간 트렌드 예측을 추상적 테마에서 바로 적용할 수 있는 다섯 색상 체계로 구체화했다.",
+      "application": "봄·여름 기획전의 배경색과 소품색을 팔레트별로 A/B 테스트하되 국내 검색량과 자사 구매 데이터를 함께 검증한다.",
+      "tags": [
+        "Pinterest",
+        "컬러 트렌드",
+        "머천다이징",
+        "시즌 디자인"
+      ],
+      "history": [
+        {
+          "date": "2025-01-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

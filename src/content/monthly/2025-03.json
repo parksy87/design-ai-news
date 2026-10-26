@@ -1,0 +1,287 @@
+{
+  "period": "2025-03",
+  "label": "2025년 3월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "lady-gaga-hydrogen-storefront",
+      "eventKey": "shopify-lady-gaga-hydrogen-case-2025",
+      "title": "Lady Gaga 스토어, Shopify Hydrogen으로 3D 브랜드 경험 구현",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2025-03-05",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify News",
+          "url": "https://www.shopify.com/news/lady-gaga-hydrogen"
+        }
+      ],
+      "summary": "Lady Gaga 팀과 Commerce-UI는 기존 Liquid 스토어를 Shopify Hydrogen으로 이전해 3D 앨범 전시와 분위기 기반 배경 효과를 구현했다. Sanity CMS를 결합해 음악·콘텐츠·굿즈를 하나의 편집 경험으로 구성했다.",
+      "changes": "표준 테마형 굿즈몰에서 브랜드 세계관과 콘텐츠를 중심으로 한 헤드리스 인터랙티브 스토어로 전환했다.",
+      "application": "아티스트·패션몰은 3D 효과를 핵심 히어로 구간에 제한하고 저사양 기기용 정적 대체 이미지와 구매 동선 성능을 함께 설계한다.",
+      "tags": [
+        "Shopify Hydrogen",
+        "브랜드 사례",
+        "3D 커머스",
+        "Lady Gaga"
+      ],
+      "history": [
+        {
+          "date": "2025-03-05",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "gemini-flash-native-image",
+      "eventKey": "gemini-2-flash-native-image-experiment-2025",
+      "title": "Google, Gemini 2.0 Flash 네이티브 이미지 생성 실험 공개",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-03-12",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Developers Blog",
+          "url": "https://developers.googleblog.com/experiment-with-gemini-20-flash-native-image-generation/"
+        }
+      ],
+      "summary": "Google이 Gemini 2.0 Flash의 텍스트·이미지 통합 생성 기능을 AI Studio와 Gemini API에서 실험 버전으로 공개했다. 대화형 다단계 편집, 일관된 캐릭터, 긴 문구 렌더링을 주요 활용 사례로 제시했다.",
+      "changes": "별도 이미지 모델 호출보다 한 모델 안에서 텍스트와 이미지를 교차 생성·수정하는 흐름이 가능해졌다.",
+      "application": "광고 배너 시안에서 카피와 이미지를 함께 반복 생성하되 한글 철자, 로고, 가격 표기는 최종 단계에서 수동 교정한다.",
+      "tags": [
+        "Gemini",
+        "이미지 생성",
+        "대화형 편집",
+        "API"
+      ],
+      "history": [
+        {
+          "date": "2025-03-12",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "ftc-click-profit-action",
+      "eventKey": "ftc-click-profit-ai-store-action-2025",
+      "title": "FTC, AI 쇼핑몰 고수익 보장 광고에 긴급 제동",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2025-03-18",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Federal Trade Commission",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/03/ftc-acts-stop-click-profit-online-business-opportunity-has-cost-consumers-least-14-million"
+        }
+      ],
+      "summary": "FTC 요청에 따라 법원이 AI 기반 온라인 스토어로 고정적 고수익을 낼 수 있다고 광고한 Click Profit 운영을 잠정 중단했다. FTC는 보장 수익, 유명 브랜드 제휴, 고객 성공담이 오인성이 있다고 주장했다.",
+      "changes": "AI 자동화와 유명 플랫폼 입점을 근거로 수익을 보장하는 사업기회 광고에 집행 위험이 구체화됐다.",
+      "application": "쇼핑몰 구축·운영 대행 광고는 예상 매출을 보장하지 말고 비용, 실패율, 플랫폼 정지 위험과 실적 산정 기준을 함께 공개한다.",
+      "tags": [
+        "FTC",
+        "수익 보장",
+        "AI 쇼핑몰",
+        "기만 광고"
+      ],
+      "history": [
+        {
+          "date": "2025-03-18",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "figma-slides-general-availability",
+      "eventKey": "figma-slides-ga-2025",
+      "title": "Figma Slides 정식 전환, 컴포넌트·PPTX·개별 애니메이션 추가",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-03-19",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Figma Blog",
+          "url": "https://www.figma.com/blog/how-teams-tap-into-the-power-of-design-with-figma-slides/"
+        }
+      ],
+      "summary": "Figma Slides가 오픈 베타를 종료하고 Full, Dev, Collab 좌석에서 이용 가능해졌다. 브랜드 컴포넌트, 오브젝트 단위 애니메이션, 향상된 영상 제어, PPTX 가져오기·내보내기를 추가했다.",
+      "changes": "베타 발표 도구에서 디자인 시스템과 외부 PowerPoint 협업을 연결하는 정식 제품으로 전환됐다.",
+      "application": "브랜드 로고·차트·CTA를 컴포넌트화해 시즌별 제안서 템플릿을 운영하고 외부 전달 전 PPTX 변환 결과를 확인한다.",
+      "tags": [
+        "Figma Slides",
+        "PPTX",
+        "컴포넌트",
+        "브랜드 시스템"
+      ],
+      "history": [
+        {
+          "date": "2025-03-19",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "openai-4o-image-generation",
+      "eventKey": "openai-4o-image-generation-2025",
+      "title": "OpenAI, GPT-4o 네이티브 이미지 생성 출시",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-03-25",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-4o-image-generation/"
+        }
+      ],
+      "summary": "OpenAI가 ChatGPT에 GPT-4o 네이티브 이미지 생성을 출시해 텍스트 렌더링, 다단계 대화 수정, 업로드 이미지 참조를 지원했다. 생성물에는 C2PA 메타데이터를 넣고 Plus·Pro·Team·Free 사용자에게 순차 제공했다.",
+      "changes": "DALL·E 중심의 별도 이미지 생성 경험에서 대화 문맥과 세계 지식을 직접 활용하는 통합 멀티모달 생성으로 바뀌었다.",
+      "application": "상세페이지 인포그래픽과 콘셉트 시안에 활용하되 제품 실물, 한글, 법정 표시사항과 C2PA 유지 여부를 출고 전에 확인한다.",
+      "tags": [
+        "OpenAI",
+        "GPT-4o",
+        "이미지 생성",
+        "C2PA"
+      ],
+      "history": [
+        {
+          "date": "2025-03-25",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "figma-ui3-transition",
+      "eventKey": "figma-ui3-full-transition-2025",
+      "title": "Figma, UI3 전면 전환 일정과 작업 흐름 변경 안내",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2025-03-25",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Figma Blog",
+          "url": "https://www.figma.com/blog/making-the-move-to-ui3-a-guide-to-figmas-next-chapter/"
+        }
+      ],
+      "summary": "Figma는 4월 30일 기존 UI2를 종료하고 UI3로 전면 전환한다고 발표했다. 재구성된 속성 패널, 하단 툴바, 액션 메뉴와 시각 검색·이미지 생성·레이어 이름 변경 같은 AI 기능을 설명했다.",
+      "changes": "사용자가 UI2를 선택할 수 있던 과도기에서 UI3 단일 인터페이스로 전환하는 일정이 확정됐다.",
+      "application": "디자인팀은 전환 전 단축키·속성 패널 교육 자료를 업데이트하고 플러그인 및 내부 작업 가이드의 화면 캡처를 교체한다.",
+      "tags": [
+        "Figma UI3",
+        "워크플로",
+        "디자인 도구",
+        "AI 기능"
+      ],
+      "history": [
+        {
+          "date": "2025-03-25",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "pinterest-coachella-2025",
+      "eventKey": "pinterest-coachella-trends-2025",
+      "title": "Pinterest, Coachella 2025 패션·뷰티 트렌드와 체험 캠페인 발표",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-03-25",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Pinterest Newsroom",
+          "url": "https://newsroom.pinterest.com/news/pinterest-invites-coachella-fans-to-remix-their-style-with-top-festival-trends-for-2025/"
+        }
+      ],
+      "summary": "Pinterest가 검색 데이터로 도출한 Coachella 패션·뷰티 트렌드와 현장 콜라주 체험 공간을 발표했다. 플랫폼에서는 축제 시즌 동안 스타일 탐색과 쇼핑 영감을 제공했다.",
+      "changes": "온라인 검색 트렌드 보고를 현장 스타일링·사진·콜라주와 연결한 온오프라인 캠페인으로 확장했다.",
+      "application": "국내 페스티벌 기획전은 검색 증가 시점을 기준으로 룩북을 선공개하고 현장 포토존 결과물을 쇼핑 가능한 콜라주로 재활용한다.",
+      "tags": [
+        "Pinterest",
+        "Coachella",
+        "페스티벌",
+        "트렌드 마케팅"
+      ],
+      "history": [
+        {
+          "date": "2025-03-25",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "figma-spanish-localization",
+      "eventKey": "figma-spanish-localization-2025",
+      "title": "Figma, 스페인어 제품·지원 현지화 시작",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-03-27",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Figma Blog",
+          "url": "https://www.figma.com/blog/figma-spanish-localization/"
+        }
+      ],
+      "summary": "Figma가 일본어에 이어 스페인어를 두 번째 완전 현지화 언어로 추가하고 제품 번역, 문화적 UI 조정, 전용 지원을 단계적으로 제공했다. 출시는 3월 27일부터 4월 17일까지 진행한다고 밝혔다.",
+      "changes": "단순 문자열 번역을 넘어 인터페이스와 지원 체계를 현지 시장에 맞추는 방식으로 범위를 넓혔다.",
+      "application": "해외몰 현지화 시 카피 번역뿐 아니라 날짜·통화·검색어·고객지원 표현을 함께 검수하는 지역별 디자인 체크리스트를 둔다.",
+      "tags": [
+        "현지화",
+        "Figma",
+        "스페인",
+        "글로벌 UX"
+      ],
+      "history": [
+        {
+          "date": "2025-03-27",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

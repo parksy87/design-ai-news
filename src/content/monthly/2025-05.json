@@ -1,0 +1,252 @@
+{
+  "period": "2025-05",
+  "label": "2025년 5월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "adobe-express-smb-video-tools",
+      "eventKey": "adobe-express-smb-tools-2025",
+      "title": "Adobe Express, 중소사업자용 AI 영상·브랜드 일관성 도구 공개",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-05-01",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2025/05/01/adobe-express-celebrates-smbs-with-new-tools-learning-resources-for-marketing-success"
+        }
+      ],
+      "summary": "Adobe Express가 긴 영상에서 숏폼을 만드는 Clip Maker, Firefly 기반 Generate Video, 물리 기반 Dynamic Animation을 공개했다. 한 장의 브랜드 이미지에서 일관된 이미지 세트를 만드는 Generate Similar도 추가했다.",
+      "changes": "정적 템플릿 편집 중심에서 숏폼 추출·AI B-roll·브랜드형 이미지 묶음 생성까지 제작 범위가 넓어졌다.",
+      "application": "한 번의 제품 촬영으로 채널별 짧은 영상과 이미지 변형을 만들고 브랜드 키트의 색·폰트·톤 기준으로 일괄 검수한다.",
+      "tags": [
+        "Adobe Express",
+        "SMB",
+        "숏폼",
+        "브랜드 일관성"
+      ],
+      "history": [
+        {
+          "date": "2025-05-01",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-ai-max-search",
+      "eventKey": "google-ai-max-search-beta-2025",
+      "title": "Google Ads, Search 캠페인용 AI Max 베타 발표",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-05-06",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/google-ai-max-for-search-campaigns/"
+        }
+      ],
+      "summary": "Google이 검색어 매칭 확대, 자동 텍스트 자산, 최종 URL 확장과 브랜드·지역 제어를 묶은 AI Max for Search를 발표했다. 5월 말부터 전 세계 광고주에게 베타로 순차 제공한다고 밝혔다.",
+      "changes": "검색 키워드와 수동 카피 중심 운영을 한 번의 설정으로 AI 타기팅·카피·랜딩 선택까지 확장할 수 있게 됐다.",
+      "application": "브랜드 제외 목록과 허용 URL을 먼저 설정하고 AI 생성 헤드라인이 가격·혜택·법적 고지를 왜곡하지 않는지 검색어 보고와 함께 점검한다.",
+      "tags": [
+        "Google Ads",
+        "AI Max",
+        "검색 광고",
+        "자동 생성 자산"
+      ],
+      "history": [
+        {
+          "date": "2025-05-06",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-new-to-brand-bid-boost",
+      "eventKey": "amazon-ntb-bid-boost-2025",
+      "title": "Amazon Sponsored Brands, 신규 브랜드 고객 입찰 증액 기능 출시",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-05-06",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/new-to-brand-shoppers-audience-for-bid-boosting"
+        }
+      ],
+      "summary": "Amazon Ads가 최근 12개월간 해당 브랜드를 구매하지 않은 고객에게 Sponsored Brands 입찰을 높이는 New-To-Brand 대상을 출시했다. 신규·기존 캠페인 모두에 적용하고 대상별 성과 보고를 제공한다.",
+      "changes": "브랜드 신규 고객을 보고서로만 분석하던 단계에서 입찰 전략에 직접 반영할 수 있게 됐다.",
+      "application": "신규 고객용 소재는 브랜드 소개와 대표 상품군을 강조하고 재구매 고객 캠페인과 CAC·신규 주문 비중을 분리해 평가한다.",
+      "tags": [
+        "Amazon Ads",
+        "신규 고객",
+        "입찰 증액",
+        "Sponsored Brands"
+      ],
+      "history": [
+        {
+          "date": "2025-05-06",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "figma-config-2025-launches",
+      "eventKey": "figma-config-2025-product-launches",
+      "title": "Figma Config 2025, Make·Sites·Draw·Buzz 통합 발표",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-05-07",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Figma Blog",
+          "url": "https://www.figma.com/blog/config-2025-press-release/"
+        }
+      ],
+      "summary": "Figma가 프롬프트 기반 프로토타입·앱 제작 Make, 웹사이트 게시 Sites, 벡터 표현 도구 Draw, 브랜드 마케팅 자산 도구 Buzz를 발표했다. AI 이미지 생성·편집과 반응형 Grid도 함께 공개했다.",
+      "changes": "UI 디자인과 프로토타입 중심 플랫폼에서 웹 게시, 마케팅 자산 대량 제작, 프롬프트 기반 구현까지 제품 범위가 확장됐다.",
+      "application": "쇼핑몰 랜딩은 Sites로 빠르게 검증하고 Buzz 템플릿은 편집 가능 영역을 제한해 운영자가 대량 소재를 만들어도 브랜드 체계를 유지하게 한다.",
+      "tags": [
+        "Figma Config",
+        "Figma Make",
+        "Figma Sites",
+        "Figma Buzz"
+      ],
+      "history": [
+        {
+          "date": "2025-05-07",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-ai-creative-merchant-center",
+      "eventKey": "google-marketing-live-ai-creative-2025",
+      "title": "Google, Merchant Center 이미지→영상·상품 이미지 생성 도구 발표",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2025-05-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/google-ai-ads-creative/"
+        }
+      ],
+      "summary": "Google이 Merchant Center의 Veo 기반 이미지→영상, 상품 포함 이미지 생성, 트렌드 기반 캠페인 아이디어 기능을 발표했다. 브랜드 프로필에서 검색 노출용 이미지·설명·영상을 관리하는 기능도 순차 제공한다.",
+      "changes": "Product Studio의 배경 제거·라이프스타일 이미지 기능에서 영상 생성과 선제적 캠페인 제안, 브랜드 허브 기능으로 확대됐다.",
+      "application": "상품 피드의 대표 이미지를 영상으로 변환해 테스트하되 실제 옵션·가격과 생성 장면이 충돌하지 않도록 SKU 단위 승인 절차를 둔다.",
+      "tags": [
+        "Merchant Center",
+        "Product Studio",
+        "Veo",
+        "상품 이미지"
+      ],
+      "history": [
+        {
+          "date": "2025-05-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-summer-25-edition",
+      "eventKey": "shopify-summer-25-edition",
+      "title": "Shopify Summer ’25, Horizon·AI 스토어 빌더 공개",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2025-05-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify News",
+          "url": "https://www.shopify.com/news/summer-25-edition-merchant"
+        }
+      ],
+      "summary": "Shopify가 Horizon 테마 기반, 드래그 가능한 Theme Blocks, 자연어 AI 블록 생성과 AI Store Builder를 발표했다. Shop 앱의 실시간 추천·컬렉션과 AI 쇼핑 에이전트용 Knowledge Base도 추가했다.",
+      "changes": "코드나 고정 테마를 직접 수정하던 방식에서 자연어로 스토어와 시즌 배너 블록을 생성하는 방식으로 진입 장벽이 낮아졌다.",
+      "application": "AI로 생성한 할인 배너와 상품 블록은 모바일 레이아웃, 접근성, 할인 조건, Core Web Vitals를 검수한 뒤 배포한다.",
+      "tags": [
+        "Shopify",
+        "Horizon",
+        "AI Store Builder",
+        "Theme Blocks"
+      ],
+      "history": [
+        {
+          "date": "2025-05-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-ads-ireland-launch",
+      "eventKey": "amazon-ads-stores-ireland-2025",
+      "title": "Amazon.ie, Sponsored Ads와 Brand Stores 출시",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-05-28",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/sponsored-ads-and-stores-launch-in-ireland"
+        }
+      ],
+      "summary": "Amazon이 아일랜드에서 Sponsored Products, Sponsored Brands와 무료 Brand Stores를 출시했다. 판매자는 상품 검색·상세 지면 광고와 영상, 시즌 컬렉션 및 브랜드 스토리를 운영할 수 있다.",
+      "changes": "Amazon.ie 판매자가 로컬 마켓 안에서 광고와 맞춤 브랜드 스토어를 직접 운영할 수 있게 됐다.",
+      "application": "아일랜드 진출 브랜드는 영국용 소재를 그대로 복사하지 말고 유로 가격, 현지 배송, 언어 표현과 시즌 캘린더를 현지 기준으로 조정한다.",
+      "tags": [
+        "Amazon.ie",
+        "Brand Stores",
+        "Sponsored Ads",
+        "글로벌 커머스"
+      ],
+      "history": [
+        {
+          "date": "2025-05-28",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}
