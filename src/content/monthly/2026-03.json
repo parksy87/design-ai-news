@@ -1,0 +1,322 @@
+{
+  "period": "2026-03",
+  "label": "2026년 3월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "photoshop-ai-assistant-firefly-editor",
+      "eventKey": "adobe-photoshop-ai-assistant-2026",
+      "title": "Photoshop AI Assistant 공개 베타와 Firefly 이미지 편집 도구 출시",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-03-10",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/03/10/image-editing-just-got-smarter-with-ai-photoshop-firefly"
+        }
+      ],
+      "summary": "Adobe는 웹·모바일 Photoshop에서 자연어와 음성으로 편집하는 AI Assistant 공개 베타를 시작하고, 웹에서는 영역을 그려 지시하는 AI Markup을 추가했다. Firefly Image Editor에는 생성형 채우기·제거·확장·업스케일·배경제거가 통합됐다.",
+      "changes": "개별 도구를 직접 조작하던 편집이 대화형 요청과 표시 기반 수정으로 확장됐다.",
+      "application": "상품 컷의 배경·조명 변형은 AI로 만들되 제품 본체, 라벨, 인증마크는 잠금 영역으로 관리한다.",
+      "tags": [
+        "Photoshop",
+        "AI Assistant",
+        "Firefly",
+        "이미지 편집"
+      ],
+      "history": [
+        {
+          "date": "2026-03-10",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "canva-magic-layers-beta",
+      "eventKey": "canva-magic-layers-2026",
+      "title": "Canva Magic Layers, 평면 이미지를 편집 가능한 레이어로 변환",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-03-11",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Canva Newsroom",
+          "url": "https://www.canva.com/newsroom/news/magic-layers/"
+        }
+      ],
+      "summary": "Canva는 정적 이미지와 AI 생성물을 텍스트·객체·배경이 분리된 편집 가능한 디자인으로 재구성하는 Magic Layers 공개 베타를 발표했다. 원래 레이아웃 관계를 유지하면서 요소별 이동·수정이 가능하다.",
+      "changes": "AI 이미지가 최종 평면 파일이 아니라 재편집 가능한 디자인 초안으로 바뀌었다.",
+      "application": "프로모션 시안을 레이어로 변환한 뒤 한국어 카피, 가격, 법정 고지, CTA를 실제 텍스트로 교체한다.",
+      "tags": [
+        "Canva",
+        "Magic Layers",
+        "레이어",
+        "프로모션 디자인"
+      ],
+      "history": [
+        {
+          "date": "2026-03-11",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "merchant-center-for-agencies",
+      "eventKey": "google-merchant-center-agencies-2026",
+      "title": "Google Merchant Center for Agencies 정식 제공",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2026-03-11",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/16944668?hl=en"
+        }
+      ],
+      "summary": "구글은 미국과 캐나다에서 여러 고객 계정을 한 화면에서 온보딩·모니터링·최적화하는 Merchant Center for Agencies를 정식 제공했다. 문제 조기 감지와 권한 협업 기능을 강조했다.",
+      "changes": "대행사가 개별 판매자 계정을 오가던 운영이 포트폴리오 단위 관리로 통합됐다.",
+      "application": "다수 브랜드를 운영한다면 피드 오류, 정책 경고, 이미지 누락을 계정 공통 점검 항목으로 표준화한다.",
+      "tags": [
+        "Merchant Center",
+        "대행사",
+        "상품 피드",
+        "운영"
+      ],
+      "history": [
+        {
+          "date": "2026-03-11",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-alcohol-subscription-shopping",
+      "eventKey": "google-shopping-alcohol-subscription-us",
+      "title": "미국 Google Shopping, 주류 구독 상품 허용 범위 확대",
+      "category": "정책·규정",
+      "priority": "normal",
+      "publishedAt": "2026-03-12",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/16941451?hl=en"
+        }
+      ],
+      "summary": "구글은 3월 31일부터 미국의 적격 판매자가 와인 클럽 같은 주류 정기구독을 등록할 수 있도록 정책을 확대했다. Alcoholic Beverages 카테고리와 subscription_cost 속성, 필수 비용의 명확한 공개가 요구된다.",
+      "changes": "기존 물리 상품 구독 정책에 주류가 공식 포함됐다.",
+      "application": "한국 판매자는 직접 적용 대상은 아니지만 해외몰 운영 시 국가별 주류 규정과 결제 전 총 구독비용 표시를 분리 관리한다.",
+      "tags": [
+        "Google Shopping",
+        "주류",
+        "구독",
+        "정책"
+      ],
+      "history": [
+        {
+          "date": "2026-03-12",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-prescription-recurring-billing",
+      "eventKey": "google-shopping-prescription-recurring-us",
+      "title": "미국 Google Shopping, 인증 약국의 처방약 정기결제 허용",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2026-03-12",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/16940854?hl=en"
+        }
+      ],
+      "summary": "구글은 3월 31일부터 인증된 미국 온라인 약국이 처방약 정기결제, 서비스 결합 상품, 처방 자격 상담을 홍보할 수 있도록 했다. 인증 유지, subscription_cost, 약관 URL과 전체 비용 공개가 필요하다.",
+      "changes": "제한되던 처방약 관련 반복 결제와 결합 서비스의 허용 조건이 구체화됐다.",
+      "application": "건강 관련 상품은 적용 국가와 인증 여부를 우선 확인하고 상세페이지에서 상품·상담·반복비용을 분리 표기한다.",
+      "tags": [
+        "Google Shopping",
+        "헬스케어",
+        "정기결제",
+        "정책"
+      ],
+      "history": [
+        {
+          "date": "2026-03-12",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "firefly-custom-models-public-beta",
+      "eventKey": "adobe-firefly-custom-models-2026",
+      "title": "Adobe Firefly 맞춤 모델 공개 베타 확대",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-03-19",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/03/19/adobe-firefly-expands-video-image-creation-with-new-ai-capabilities-custom-models"
+        }
+      ],
+      "summary": "Adobe는 사용자의 이미지로 캐릭터·일러스트·사진 스타일에 맞춘 Firefly custom models 공개 베타 접근을 확대했다. Firefly 안에서 Adobe, Google, OpenAI, Runway, Kling 등 30개 이상 모델과 함께 쓸 수 있다.",
+      "changes": "일회성 스타일 참조에서 반복 사용 가능한 자체 스타일 모델로 발전했다.",
+      "application": "브랜드 승인 이미지로만 학습 세트를 구성하고 제품 형태보다 배경·조명 스타일을 학습 대상으로 분리한다.",
+      "tags": [
+        "Adobe Firefly",
+        "맞춤 모델",
+        "브랜드 스타일",
+        "생성 AI"
+      ],
+      "history": [
+        {
+          "date": "2026-03-19",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-marketing-platform-gemini",
+      "eventKey": "google-marketing-platform-gemini-2026",
+      "title": "Google Marketing Platform에 Gemini 기반 Ads Advisor 도입",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-03-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Marketing Platform",
+          "url": "https://blog.google/products/marketingplatform/360/gemini-models-advantage-google-marketing-platform/"
+        }
+      ],
+      "summary": "구글은 캠페인 설정·최적화·모니터링·보고를 지원하는 Gemini 기반 Ads Advisor를 발표했다. 미디어 플랜 업로드를 캠페인 구성으로 바꾸고 크리에이티브 거절 원인을 추적하는 기능을 제시했다.",
+      "changes": "광고 운영의 여러 단계를 프롬프트 기반 조언과 자동 설정으로 연결했다.",
+      "application": "AI 권고를 바로 적용하지 말고 브랜드별 예산 상한, 제외 지면, 소재 승인 조건을 운영 규칙으로 둔다.",
+      "tags": [
+        "Google Marketing Platform",
+        "Gemini",
+        "Ads Advisor",
+        "광고 운영"
+      ],
+      "history": [
+        {
+          "date": "2026-03-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "demand-gen-veo-creator-tools",
+      "eventKey": "google-demand-gen-2026-03",
+      "title": "Demand Gen에 Veo 정적 이미지 영상 변환 도입",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2026-03-26",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/"
+        }
+      ],
+      "summary": "구글은 Google Ads의 Veo로 정적 이미지에서 영상 변형을 만들고 Demand Gen의 자산 다양성을 늘리는 기능을 발표했다. YouTube Creator Partnerships와 Shorts용 크리에이터 광고 확대도 함께 소개했다.",
+      "changes": "정적 상품 이미지가 캠페인 안에서 바로 영상 자산으로 확장되고 크리에이터 협업 관리가 강화됐다.",
+      "application": "대표 상품 컷으로 6~10초 세로 영상을 만들고 첫 2초 제품 인지, 자막 안전영역, 사실성 왜곡을 검수한다.",
+      "tags": [
+        "Google Ads",
+        "Demand Gen",
+        "Veo",
+        "YouTube Shorts"
+      ],
+      "history": [
+        {
+          "date": "2026-03-26",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-vehicle-ads-europe-expansion",
+      "eventKey": "google-vehicle-ads-de-it-es-2026",
+      "title": "Google 차량 광고, 독일·이탈리아·스페인 확대",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2026-03-27",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/17003740?hl=en-GB"
+        }
+      ],
+      "summary": "구글은 독일·이탈리아·스페인의 차량 광고를 전체 차량 광고주에게 확대했다. 이미지, 제조사, 모델, 가격, 주행거리와 판매자명을 노출하고 차량 상세페이지로 연결한다.",
+      "changes": "Merchant Center 차량 피드와 Performance Max 기반 하단 퍼널 형식의 지원 국가가 늘었다.",
+      "application": "차량·중고상품형 상세페이지는 피드와 페이지의 가격·상태·재고·식별번호를 자동 대조하도록 설계한다.",
+      "tags": [
+        "Google Vehicle Ads",
+        "Merchant Center",
+        "상세페이지",
+        "재고 광고"
+      ],
+      "history": [
+        {
+          "date": "2026-03-27",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "period": "2025-12",
+  "label": "2025년 12월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "adobe-apps-in-chatgpt",
+      "eventKey": "adobe-chatgpt-apps-2025",
+      "title": "Photoshop·Adobe Express·Acrobat, ChatGPT 안에서 무료 제공",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-12-10",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Newsroom",
+          "url": "https://news.adobe.com/news/2025/12/adobe-photoshop-express-acrobat-chatgpt"
+        }
+      ],
+      "summary": "Adobe가 Photoshop, Express와 Acrobat 기능을 ChatGPT 안에서 대화로 사용할 수 있게 출시했다. 이미지 부분 편집, 템플릿 기반 디자인 수정과 PDF 변환·편집을 앱 전환 없이 수행하며 ChatGPT 사용자에게 무료로 제공했다.",
+      "changes": "Adobe 앱 내부 AI 보조를 넘어 외부 대화형 플랫폼에 핵심 편집 기능을 직접 제공하는 유통 방식으로 확장됐다.",
+      "application": "빠른 시안 수정에는 활용하되 고객 이미지·계약 문서 업로드 전 사내 보안 기준과 각 서비스의 데이터 설정을 확인한다.",
+      "tags": [
+        "Adobe",
+        "ChatGPT",
+        "Photoshop"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-amazon-genstudio-activation",
+      "eventKey": "adobe-amazon-collaboration-2025",
+      "title": "Adobe GenStudio에서 Amazon Ads 디스플레이 광고 직접 활성화",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-12-02",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Press Center",
+          "url": "https://press.aboutamazon.com/aws/2025/12/adobe-and-amazon-deepen-collaboration-to-reshape-creativity-and-marketing-in-the-ai-era"
+        }
+      ],
+      "summary": "Adobe와 Amazon이 GenStudio for Performance Marketing에서 Amazon Ads 디스플레이 광고를 직접 활성화하는 협업을 발표했다. 제작·개인화 자산을 광고 플랫폼으로 옮기는 단계를 줄이고 AEP와 AWS 데이터 연결도 강화했다.",
+      "changes": "GenStudio의 제작·조립 결과를 별도 내보내기 없이 Amazon 광고 집행으로 연결하는 통합이 추가됐다.",
+      "application": "직접 활성화를 쓰더라도 국내 캠페인 승인 절차를 생략하지 말고 플랫폼 전송 전 가격·기간·법정 고지를 잠근다.",
+      "tags": [
+        "Adobe GenStudio",
+        "Amazon Ads",
+        "광고자동화"
+      ],
+      "history": [
+        {
+          "date": "2025-12-02",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-sidekick-ai-image-expansion",
+      "eventKey": "shopify-sidekick-image-editor-dec-2025",
+      "title": "Shopify Sidekick 이미지 편집에 생성형 확장 추가",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2025-12-10",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/improved-ai-image-editing-with-sidekick"
+        }
+      ],
+      "summary": "Shopify가 Sidekick 기반 파일 편집기에 자유 프롬프트와 이미지 경계 밖을 확장하는 기능을 추가했다. 상품 사진의 비율을 새 광고면이나 배너 규격에 맞게 넓힐 수 있다.",
+      "changes": "배경 교체 중심 편집에서 캔버스 확장과 더 유연한 부분 수정으로 범위가 넓어졌다.",
+      "application": "가로·세로 규격 확장 시 상품 자체는 원본 픽셀을 유지하고 생성 영역에는 문구·중요 정보가 걸치지 않게 한다.",
+      "tags": [
+        "Shopify",
+        "생성형확장",
+        "상품사진"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-cyber-monday-results-2025",
+      "eventKey": "adobe-cyber-week-results-2025",
+      "title": "Adobe, Cyber Monday 온라인 매출 142억5천만 달러 발표",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-12-02",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Newsroom",
+          "url": "https://news.adobe.com/news/downloads/pdfs/2025/12/120225-adobe-cyber-monday-recap.pdf"
+        }
+      ],
+      "summary": "Adobe Analytics는 미국 Cyber Monday 온라인 지출이 142억5천만 달러로 전년 대비 7.1% 증가했고 Cyber Week 전체는 442억 달러라고 발표했다. AI 서비스발 소매 사이트 트래픽은 당일 670%, 소셜 매출 비중은 전년보다 크게 늘었다.",
+      "changes": "Cyber Monday 단독 성장보다 Black Friday의 성장률이 더 높아지며 조기 딜 분산 흐름이 이어졌다.",
+      "application": "한국 연말 행사도 마지막 날 한 번에 집중하지 말고 주말·사전 기간별 매출과 AI·소셜 유입을 분리해 크리에이티브 기여를 분석한다.",
+      "tags": [
+        "Adobe Analytics",
+        "Cyber Monday",
+        "이커머스데이터"
+      ],
+      "history": [
+        {
+          "date": "2025-12-02",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-bfcm-results-2025",
+      "eventKey": "shopify-bfcm-results-2025",
+      "title": "Shopify 판매자 BFCM 매출 146억 달러 기록",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-12-02",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify News",
+          "url": "https://www.shopify.com/news/bfcm-data-2025"
+        }
+      ],
+      "summary": "Shopify는 BFCM 기간 전 세계 판매자가 전년 대비 27% 늘어난 146억 달러 매출을 기록했다고 발표했다. 8,100만 명 이상이 구매했고 주문의 16%가 국경 간 거래, 32%가 Shop Pay로 결제됐다.",
+      "changes": "글로벌 독립 브랜드의 행사 매출과 빠른 결제·국경 간 구매 비중이 함께 확대됐다.",
+      "application": "해외몰은 행사 첫 화면에 통화·배송·관세 정보를 명확히 하고 간편결제 버튼을 모바일 구매 흐름에서 우선 테스트한다.",
+      "tags": [
+        "Shopify",
+        "BFCM",
+        "Shop Pay"
+      ],
+      "history": [
+        {
+          "date": "2025-12-02",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-creative-diversification-guidance",
+      "eventKey": "meta-creative-diversification-dec-2025",
+      "title": "Meta, 크리에이티브 다양화와 단순 변형을 구분한 실무 지침 공개",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-12-16",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta for Business",
+          "url": "https://www.facebook.com/business/news/demystifying-creative-diversification"
+        }
+      ],
+      "summary": "Meta가 서로 다른 페르소나·사용 사례를 위한 distinct asset 제작을 진정한 크리에이티브 다양화로 정의했다. 색이나 문구만 바꾸는 반복과 구분하고 성과 원인을 보여주는 creative insights 테스트도 밝혔다.",
+      "changes": "자동 전달 시스템용 소재 수량보다 아이디어·대상·사용 맥락의 실질적 차이를 강조했다.",
+      "application": "한국 캠페인은 같은 KV의 크기 변형을 다양화로 세지 말고 문제 상황·혜택·제품 증거가 다른 콘셉트군으로 운영한다.",
+      "tags": [
+        "Meta Ads",
+        "크리에이티브다양화",
+        "광고전략"
+      ],
+      "history": [
+        {
+          "date": "2025-12-16",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-sidekick-email-editing",
+      "eventKey": "shopify-sidekick-email-dec-2025",
+      "title": "Shopify Sidekick, 이메일 섹션·CTA·이미지 대화형 편집 지원",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-12-10",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/edit-emails-faster-with-sidekick"
+        }
+      ],
+      "summary": "Shopify가 Sidekick으로 기존 템플릿과 브랜드 설정을 유지하며 이메일의 섹션, 제목, CTA와 이미지를 대화로 수정하는 기능을 출시했다. 전체 메일이나 특정 섹션만 반복 편집할 수 있다.",
+      "changes": "텍스트 초안 생성에서 실제 이메일 레이아웃 요소를 직접 추가·삭제·교체하는 편집으로 발전했다.",
+      "application": "한글 제목 길이와 버튼 줄바꿈, 수신 거부·광고 표기 등 국내 필수 요소가 자동 편집 중 사라지지 않도록 잠금 검수한다.",
+      "tags": [
+        "Shopify Email",
+        "Sidekick",
+        "CRM디자인"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-ai-block-all-themes",
+      "eventKey": "shopify-ai-block-all-themes-2025",
+      "title": "Shopify AI 테마 블록 생성, 모든 Theme Store 테마로 확대",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-12-10",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/ai-block-generation-for-all-theme-store-themes"
+        }
+      ],
+      "summary": "Shopify가 Sidekick의 자연어 테마 블록 생성을 Horizon 외 모든 Theme Store 테마로 확대했다. 원하는 섹션을 설명하면 코드를 만들고 대화로 디자인을 반복 수정할 수 있다.",
+      "changes": "특정 최신 테마에 한정됐던 AI 블록 생성이 테마 스토어 전반으로 확장됐다.",
+      "application": "상세페이지 보조 블록을 빠르게 만들되 테마 업데이트 호환성, 모바일 접근성, 로딩 성능과 추적 코드를 개발 검수한다.",
+      "tags": [
+        "Shopify Themes",
+        "AI코딩",
+        "상세페이지"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-dsp-content-exclusion",
+      "eventKey": "amazon-dsp-content-exclusion-2025",
+      "title": "Amazon DSP, 통합 콘텐츠 제외 카테고리 제공",
+      "category": "정책·규정",
+      "priority": "normal",
+      "publishedAt": "2025-12-18",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/content-exclusion-categories-brand-suitability-control"
+        }
+      ],
+      "summary": "Amazon DSP가 Twitch와 외부 웹·모바일 인벤토리에 한 번에 적용하는 콘텐츠 제외 카테고리를 출시했다. 제외 설정과 실제 배치를 Brand suitability 보고서에서 확인할 수 있다.",
+      "changes": "공급원마다 별도 관리하던 브랜드 적합성 제어를 통합 설정·보고 체계로 묶었다.",
+      "application": "국내 브랜드 가이드의 금지 문맥을 카테고리 설정으로 매핑하고 캠페인 종료 후 실제 노출 보고서로 준수 여부를 확인한다.",
+      "tags": [
+        "Amazon DSP",
+        "브랜드안전",
+        "콘텐츠제외"
+      ],
+      "history": [
+        {
+          "date": "2025-12-18",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "period": "2025-04",
+  "label": "2025년 4월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "amazon-sponsored-display-conversion",
+      "eventKey": "amazon-sponsored-display-conversion-optimization-2025",
+      "title": "Amazon Sponsored Display, 도달·방문 캠페인도 전환 중심 최적화",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-04-04",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/sponsored-display-reach-and-page-visit-campaign"
+        }
+      ],
+      "summary": "Amazon Ads가 기존 Reach 및 Page Visit 최적화 Sponsored Display 캠페인의 머신러닝을 전환 기회 중심으로 변경했다. 총매출과 ROAS·ACOS 등 효율 개선을 목표로 한다.",
+      "changes": "도달 또는 방문을 선택한 기존 캠페인도 별도 전환 캠페인과 유사한 판매 성과 최적화 방향으로 이동했다.",
+      "application": "기존 캠페인의 성과 기준이 달라질 수 있으므로 변경 전후 도달·방문·매출 지표를 분리하고 소재별 전환 기여를 다시 평가한다.",
+      "tags": [
+        "Amazon Ads",
+        "Sponsored Display",
+        "전환 최적화",
+        "ROAS"
+      ],
+      "history": [
+        {
+          "date": "2025-04-04",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-edits-launch",
+      "eventKey": "meta-edits-app-launch-2025",
+      "title": "Meta, 모바일 영상 제작 앱 Edits 출시",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-04-22",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/"
+        }
+      ],
+      "summary": "Meta가 최대 10분 촬영, 프레임 단위 타임라인, 그린스크린·전환, 배포 성과 인사이트를 갖춘 Edits 앱을 출시했다. Instagram·Facebook 직접 게시 외에도 워터마크 없이 내보낼 수 있다.",
+      "changes": "촬영·편집·성과 확인을 여러 앱에 나누던 숏폼 작업을 하나의 모바일 제작 환경에 모았다.",
+      "application": "상품 숏폼을 9:16 마스터로 제작하고 초반 이탈률을 기준으로 첫 3초 후킹 장면과 자막 크기를 반복 개선한다.",
+      "tags": [
+        "Meta Edits",
+        "숏폼",
+        "모바일 영상",
+        "Reels"
+      ],
+      "history": [
+        {
+          "date": "2025-04-22",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "openai-gpt-image-1-api",
+      "eventKey": "openai-gpt-image-1-api-2025",
+      "title": "OpenAI, gpt-image-1 이미지 생성 API 출시",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-04-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/image-generation-api/"
+        }
+      ],
+      "summary": "OpenAI가 ChatGPT의 이미지 생성 모델을 gpt-image-1이라는 API로 제공하기 시작했다. 디자인·이커머스·마케팅 도구가 이미지 생성과 편집, 텍스트 렌더링을 제품에 통합할 수 있으며 생성물에는 C2PA 메타데이터가 포함된다.",
+      "changes": "ChatGPT 안에서만 쓰던 네이티브 이미지 생성이 기업과 개발자의 자동화 파이프라인으로 개방됐다.",
+      "application": "상품 이미지 변형 API를 구축할 때 품질 단계별 비용 한도, 금칙어, 사람 검수, 원본·생성본 이력과 C2PA 보존을 기본값으로 둔다.",
+      "tags": [
+        "OpenAI API",
+        "gpt-image-1",
+        "이미지 자동화",
+        "C2PA"
+      ],
+      "history": [
+        {
+          "date": "2025-04-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-firefly-model4-boards",
+      "eventKey": "adobe-max-london-firefly-2025",
+      "title": "Adobe, Firefly Image Model 4·Boards·외부 모델 통합 발표",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-04-24",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2025/04/24/adobe-firefly-next-evolution-creative-ai-is-here"
+        }
+      ],
+      "summary": "Adobe가 Image Model 4와 Ultra, 정식 Firefly Video Model, 협업 콘셉트 보드인 Firefly Boards를 발표했다. Firefly 안에서 Google Imagen·Veo, OpenAI 이미지 생성, Flux 등 외부 모델도 선택할 수 있게 했다.",
+      "changes": "단일 Adobe 모델 중심 생성에서 여러 모델을 비교하고 무드보드부터 제작까지 잇는 통합 크리에이티브 환경으로 확장됐다.",
+      "application": "브랜드 캠페인은 Boards에서 모델별 시안을 비교하되 상업 안전성 조건이 모델마다 다름을 기록하고 최종 제작에는 승인된 모델만 사용한다.",
+      "tags": [
+        "Adobe Firefly",
+        "Image Model 4",
+        "Firefly Boards",
+        "멀티모델"
+      ],
+      "history": [
+        {
+          "date": "2025-04-24",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-pmax-channel-reporting",
+      "eventKey": "google-pmax-channel-reporting-2025",
+      "title": "Google Performance Max, 채널·검색어·자산 보고 강화",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-04-30",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/channel-performance-reporting-coming-to-performance-max/"
+        }
+      ],
+      "summary": "Google이 Performance Max에 Search, YouTube, Display 등 채널별 성과 보고와 전체 검색어 보고를 추가한다고 발표했다. 개별 자산에도 노출, 클릭, 비용 등의 상세 지표가 확대된다.",
+      "changes": "통합 성과만 확인하던 블랙박스형 보고에서 채널·형식·검색어·소재 단위의 진단 가능성이 커졌다.",
+      "application": "상품 피드 이미지와 영상의 채널별 노출·전환을 비교해 다음 제작 우선순위를 정하고 부적합 검색어는 제외 키워드로 관리한다.",
+      "tags": [
+        "Google Ads",
+        "Performance Max",
+        "채널 보고",
+        "소재 분석"
+      ],
+      "history": [
+        {
+          "date": "2025-04-30",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

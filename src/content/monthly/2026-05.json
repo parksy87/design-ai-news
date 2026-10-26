@@ -1,0 +1,252 @@
+{
+  "period": "2026-05",
+  "label": "2026년 5월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "merchant-center-agencies-global",
+      "eventKey": "google-merchant-center-agencies-global-2026",
+      "title": "Merchant Center for Agencies 전 세계 정식 제공",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2026-05-11",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/17072077?hl=en-IE"
+        }
+      ],
+      "summary": "구글은 여러 고객의 Merchant Center 계정을 한 화면에서 관리하는 Merchant Center for Agencies를 전 세계에 정식 제공했다. 온보딩, 상품 목록 최적화, 이슈 조기 발견과 협업을 지원한다.",
+      "changes": "3월 미국·캐나다 정식 제공에서 글로벌 가용성으로 확대됐다.",
+      "application": "국내 대행사는 브랜드별 피드 오류와 정책 경고를 중앙 대시보드 기준으로 분류하고 대응 SLA를 정한다.",
+      "tags": [
+        "Merchant Center",
+        "대행사",
+        "글로벌",
+        "상품 피드"
+      ],
+      "history": [
+        {
+          "date": "2026-05-11",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-creativity-connector-gemini",
+      "eventKey": "adobe-creative-connector-gemini-2026",
+      "title": "Adobe 크리에이티브 커넥터, Google Gemini 연동 예고",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-05-19",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/05/19/adobe-creativity-connector-coming-google-gemini"
+        }
+      ],
+      "summary": "Adobe는 이미지·디자인·영상 전문 도구를 Google Gemini 안에서 실행하는 Adobe for creativity connector를 수주 내 제공한다고 발표했다. Firefly AI Assistant와 Claude 커넥터에 이어 외부 AI 접점을 넓혔다.",
+      "changes": "Adobe의 크리에이티브 에이전트가 Claude에서 Gemini 생태계로 확장될 계획이 공개됐다.",
+      "application": "도구별 산출물 차이를 줄이도록 Brand Kit, 템플릿, 승인 자산을 공통 기준으로 정리한다.",
+      "tags": [
+        "Adobe",
+        "Gemini",
+        "커넥터",
+        "크리에이티브 에이전트"
+      ],
+      "history": [
+        {
+          "date": "2026-05-19",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-asset-studio-multimodal",
+      "eventKey": "google-asset-studio-2026",
+      "title": "Google Asset Studio, 브리프 기반 멀티모달 광고 제작 강화",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2026-05-20",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/asset-studio-updates/"
+        }
+      ],
+      "summary": "구글은 마케팅 브리프, 브랜드 가이드, 웹사이트, 목표를 이해해 여러 테마와 형식의 광고 자산을 생성하는 Asset Studio 업데이트를 발표했다. Gemini Omni 영상 제작과 원클릭 A/B 테스트도 예고했다.",
+      "changes": "개별 이미지 생성에서 브리프 해석, 다형식 생성, 테스트까지 한 광고 제작 흐름으로 확장됐다.",
+      "application": "브리프에 타깃, 핵심 효익, 금칙어, 필수 고지를 구조화하고 A/B 테스트는 한 번에 한 요소만 바꿔 설계한다.",
+      "tags": [
+        "Google Ads",
+        "Asset Studio",
+        "Gemini Omni",
+        "A/B 테스트"
+      ],
+      "history": [
+        {
+          "date": "2026-05-20",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-ai-search-ad-formats",
+      "eventKey": "google-ai-search-ads-2026",
+      "title": "Google, Gemini 기반 대화형 검색·쇼핑 광고 형식 발표",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2026-05-20",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
+        }
+      ],
+      "summary": "구글은 AI Mode의 Conversational Discovery ads와 Highlighted Answers, 검색의 AI-powered Shopping ads를 발표했다. Gemini가 광고주 크리에이티브 옆에 제품별 설명을 생성하며 광고는 Sponsored로 표시된다.",
+      "changes": "광고가 고정 문구·상품 카드에서 질문에 답하는 설명형 형식으로 진화했다.",
+      "application": "제품별 차별점과 사용 조건을 검증 가능한 문장으로 상세페이지에 제공하고 AI 설명의 과장 가능성을 모니터링한다.",
+      "tags": [
+        "Google Ads",
+        "AI Mode",
+        "Shopping Ads",
+        "Gemini"
+      ],
+      "history": [
+        {
+          "date": "2026-05-20",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-marketing-live-2026",
+      "eventKey": "google-marketing-live-2026",
+      "title": "Google Marketing Live 2026, AI 광고·커머스 운영 체계 공개",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-05-20",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/google-marketing-live-2026-collection/"
+        }
+      ],
+      "summary": "Google Marketing Live 2026은 AI Search 광고, Google Ads·Analytics·Merchant Center를 잇는 Ask Advisor, Asset Studio를 핵심 축으로 제시했다. 광고 제작과 측정, 상거래 운영을 Gemini로 연결하는 방향이다.",
+      "changes": "개별 광고 기능보다 제작·운영·측정을 연결하는 에이전트형 마케팅 체계가 전면에 나왔다.",
+      "application": "광고 크리에이티브 성과를 Merchant Center 상품 속성 및 랜딩페이지 개선 항목과 한 대시보드에서 연결한다.",
+      "tags": [
+        "Google Marketing Live",
+        "Ask Advisor",
+        "AI 광고",
+        "커머스"
+      ],
+      "history": [
+        {
+          "date": "2026-05-20",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "merchant-center-ai-shopping-insights",
+      "eventKey": "google-merchant-ai-insights-2026",
+      "title": "Merchant Center, AI 쇼핑 노출 성과 인사이트 예고",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2026-05-27",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/17117204?hl=en"
+        }
+      ],
+      "summary": "구글은 AI Mode, AI Overviews, Gemini에서 상품이 발견되는 방식을 보여주는 Merchant Center AI performance insights를 발표했다. 점유율, 쇼핑 퍼널, 검색 상품어, 색상·스타일·소재 등 속성 완성도를 제공한다.",
+      "changes": "전통 검색 클릭 지표를 넘어 AI 대화형 쇼핑의 브랜드 노출과 상품 속성 성과를 측정한다.",
+      "application": "국내 출시 전에도 상품명만 채우지 말고 소재·색상·스타일·용도 속성을 구조화해 AI 노출 기반을 준비한다.",
+      "tags": [
+        "Merchant Center",
+        "AI Mode",
+        "상품 속성",
+        "성과 측정"
+      ],
+      "history": [
+        {
+          "date": "2026-05-27",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-nvidia-rtx-spark",
+      "eventKey": "adobe-nvidia-rtx-spark-2026",
+      "title": "Adobe·NVIDIA, RTX Spark 기반 제작 앱 가속 발표",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-05-31",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/05/31/your-creative-work-supercharge-adobe-nvidia-partner-deliver-powerful-experiences-nvidia-rtx-spark"
+        }
+      ],
+      "summary": "Adobe와 NVIDIA는 Photoshop, Premiere, Substance 3D를 RTX Spark에 최적화해 AI·편집·색보정·효과 성능을 높인다고 발표했다. Photoshop GPU 합성과 Premiere 영상 파이프라인, 앱 내 에이전트 확대가 예고됐다.",
+      "changes": "클라우드 생성 기능뿐 아니라 로컬 GPU 기반 전문 편집과 에이전트 실행 성능이 강화될 계획이다.",
+      "application": "대량 상품 이미지·영상 제작팀은 클라우드 비용과 로컬 GPU 처리 시간을 비교해 작업 유형별 환경을 나눈다.",
+      "tags": [
+        "Adobe",
+        "NVIDIA",
+        "RTX Spark",
+        "제작 워크플로"
+      ],
+      "history": [
+        {
+          "date": "2026-05-31",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

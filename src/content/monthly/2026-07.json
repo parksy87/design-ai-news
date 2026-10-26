@@ -1,0 +1,381 @@
+{
+  "period": "2026-07",
+  "label": "2026년 7월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "google-ads-ai-transparency",
+      "eventKey": "google-ads-ai-transparency-2026",
+      "title": "Google Ads, 생성형 AI 제작 여부 공개 패널 도입",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2026-07-09",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/"
+        }
+      ],
+      "summary": "Google은 검색·YouTube·Discover 광고의 My Ad Center에 ‘How this ad was made’ 영역을 추가했다. Google 생성형 AI 도구로 만든 광고에는 자동 공개가 붙고, 외부 도구를 쓴 광고주도 AI 사용 여부를 표시할 수 있다.",
+      "changes": "선거 광고 중심이던 합성 콘텐츠 공개를 일반 상업 광고의 제작·편집 과정까지 확장했다.",
+      "application": "한국 캠페인도 AI 제작 이력과 원본 파일을 남기고, 소재 검수표에 플랫폼 공개 표시 여부를 추가한다.",
+      "tags": [
+        "Google Ads",
+        "AI 라벨",
+        "광고 정책"
+      ],
+      "history": [
+        {
+          "date": "2026-07-09",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "gpt-5-6-design",
+      "eventKey": "openai-gpt-5-6-design",
+      "title": "OpenAI GPT-5.6, 인터페이스·시각화 디자인 역량 강화",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-07-09",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-6/"
+        }
+      ],
+      "summary": "OpenAI는 GPT-5.6 정식 출시와 함께 고수준 지시만으로도 기능적 인터페이스와 시각화를 만들고 렌더링 결과를 점검·수정하는 능력을 강조했다. 디자인 산출물을 코드 생성에서 실제 화면 품질 개선까지 확장한 발표다.",
+      "changes": "콘텐츠·코드 초안 생성에서 렌더 결과를 보고 시각·기능 문제를 다듬는 작업으로 범위가 넓어졌다.",
+      "application": "상세페이지 인터랙션이나 프로모션 랜딩 초안을 만든 뒤 실제 렌더 화면의 간격·가독성·반응형 오류를 함께 점검한다.",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "UI 디자인"
+      ],
+      "history": [
+        {
+          "date": "2026-07-09",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-video-campaign-groups",
+      "eventKey": "google-video-campaign-groups-global",
+      "title": "Google Ads, 동영상 캠페인 그룹 도달·빈도 최적화 글로벌 제공",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-07-13",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/video-campaign-groups/"
+        }
+      ],
+      "summary": "Google은 여러 YouTube 동영상 캠페인의 도달과 빈도를 하나의 캠페인 그룹에서 조정하는 기능을 전 세계에 제공했다. 개별 예산과 소재 설정은 유지하면서 통합 지표를 볼 수 있다.",
+      "changes": "캠페인별로 따로 관리하던 노출 빈도를 그룹 단위 목표와 보고서로 조정할 수 있게 됐다.",
+      "application": "같은 브랜드 영상의 6초·15초·세로형 버전을 그룹화해 중복 노출을 줄이고 주간 빈도를 통합 관리한다.",
+      "tags": [
+        "YouTube",
+        "도달 빈도",
+        "동영상 광고"
+      ],
+      "history": [
+        {
+          "date": "2026-07-13",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "canva-google-gemini-search",
+      "eventKey": "canva-google-ai-connector",
+      "title": "Canva, Google Gemini·AI Mode에 디자인 생성 연결",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-07-16",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Canva Newsroom",
+          "url": "https://www.canva.com/newsroom/news/google-gemini/"
+        }
+      ],
+      "summary": "Canva는 Google Search AI Mode와 Gemini에서 템플릿 탐색, 디자인 생성·수정, 채널별 재가공을 지원하는 연결 기능을 발표했다. Gemini 생성 이미지를 Magic Layers로 편집 가능한 Canva 레이아웃으로 바꿀 수도 있다.",
+      "changes": "Canva 안에서 시작하던 제작 흐름이 검색·대화형 AI에서 바로 시작되는 방식으로 확장됐다.",
+      "application": "상품 조사 결과를 Gemini에서 정리한 뒤 Canva 초안으로 넘기고 브랜드 키트와 한국어 카피를 적용한다.",
+      "tags": [
+        "Canva",
+        "Gemini",
+        "Magic Layers"
+      ],
+      "history": [
+        {
+          "date": "2026-07-16",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-location-interactive-video-expansion",
+      "eventKey": "amazon-iva-location-expansion-2026",
+      "title": "Amazon Ads, 지역 맞춤형 인터랙티브 영상 광고 3개국 확대",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-07-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/location-based-interactive-video-ads-expansion-to-ca-mx-br"
+        }
+      ],
+      "summary": "Amazon Ads는 지역 기반 인터랙티브 영상 광고를 캐나다·멕시코·브라질로 확대했다. 주·주(州)·우편번호에 따라 매장, 제안, 클릭 URL을 동적으로 바꿀 수 있다.",
+      "changes": "미국 중심이던 지역별 스트리밍 TV 소재 자동화를 미주 3개 시장으로 넓혔다.",
+      "application": "국내 CTV 캠페인 설계 시 지역별 매장명·혜택·도착 URL을 교체 가능한 모듈로 제작해 유사 기능 도입에 대비한다.",
+      "tags": [
+        "Amazon Ads",
+        "CTV",
+        "지역화"
+      ],
+      "history": [
+        {
+          "date": "2026-07-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-marketplace-seller-app",
+      "eventKey": "meta-seller-app-marketplace",
+      "title": "Meta, AI 상품 등록을 갖춘 Marketplace 판매자 앱 공개",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2026-07-24",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace/"
+        }
+      ],
+      "summary": "Meta는 미국의 성인 판매자를 대상으로 Facebook Marketplace 전용 Seller 앱을 출시했다. 사진을 올리면 Meta AI가 제목·설명·가격 제안·카테고리를 채우고, 재고·메시지·성과 지표를 한곳에서 관리한다.",
+      "changes": "일반 Facebook 화면에 흩어져 있던 등록·응대·재고 기능을 판매자 전용 운영 화면과 AI 등록 흐름으로 통합했다.",
+      "application": "상품 사진 촬영 뒤 자동 생성된 제목과 설명을 국내 표시광고 문구·옵션·배송 조건에 맞게 사람이 검수하는 프로세스를 만든다.",
+      "tags": [
+        "Meta",
+        "Marketplace",
+        "상품 등록"
+      ],
+      "history": [
+        {
+          "date": "2026-07-24",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-partner-catalog-incentives",
+      "eventKey": "shopify-partner-catalog-incentives",
+      "title": "Shopify, Catalog 기반 파트너 판매 기회 확대",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2026-07-28",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify News",
+          "url": "https://www.shopify.com/news/a-world-with-more-builders"
+        }
+      ],
+      "summary": "Shopify는 파트너 보상을 단순화하고 Shopify Catalog를 활용해 전통적 스토어 밖의 구매 경험을 만드는 기회를 넓힌다고 발표했다. 향후 파트너가 이런 경험에서 유도한 판매에 대해 수수료를 받을 수 있도록 했다.",
+      "changes": "구독료 연동 중심의 파트너 보상에서 판매 성장과 외부 커머스 경험 기여를 보상하는 방향으로 이동했다.",
+      "application": "상품 데이터의 제목·속성·이미지를 채널 독립적으로 정리해 AI 쇼핑·외부 앱 노출에도 같은 정보가 전달되게 한다.",
+      "tags": [
+        "Shopify",
+        "Catalog",
+        "에이전틱 커머스"
+      ],
+      "history": [
+        {
+          "date": "2026-07-28",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-brightline-disney-dsp",
+      "eventKey": "amazon-brightline-disney-interactive-ads",
+      "title": "Amazon DSP, Disney 인벤토리에 BrightLine 인터랙티브 광고 제공",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-07-29",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/en-ca/resources/whats-new/interactive-and-enhanced-ads-powered-by-brightline"
+        }
+      ],
+      "summary": "Amazon DSP에서 Disney 광고 인벤토리에 BrightLine 기반 갤러리·퀴즈·애니메이션 캐러셀·QR 코드 형식을 집행할 수 있게 됐다. 미국의 관리형·셀프서비스 광고주가 대상이다.",
+      "changes": "표준 영상 노출에서 리모컨 상호작용과 자동 오버레이를 포함한 참여형 CTV 소재로 확장됐다.",
+      "application": "영상 원본과 별도로 캐러셀 카드, QR, 브랜드 프레임을 컴포넌트화해 CTV 확장 소재를 빠르게 만든다.",
+      "tags": [
+        "Amazon DSP",
+        "Disney",
+        "인터랙티브 광고"
+      ],
+      "history": [
+        {
+          "date": "2026-07-29",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-demand-gen-holiday-july",
+      "eventKey": "google-demand-gen-drop-2026-07",
+      "title": "Google Demand Gen, 한국 포함 Checkout Links 확대",
+      "category": "시즌·프로모션",
+      "priority": "high",
+      "publishedAt": "2026-07-29",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/"
+        }
+      ],
+      "summary": "Google은 연말 시즌 준비 업데이트에서 Demand Gen Checkout Links를 한국 등 9개 시장에 추가했다. 상품 피드, 크리에이터 제휴, 개선된 목표 ROAS와 함께 광고에서 장바구니·결제 페이지로 바로 연결할 수 있다.",
+      "changes": "탐색형 영상 광고에서 자사몰 결제 단계로 이어지는 경로가 한국 시장에도 공식 확대됐다.",
+      "application": "연말 소재별 전용 장바구니 URL을 만들고 피드 가격·재고·프로모션 문구가 랜딩과 일치하는지 사전 점검한다.",
+      "tags": [
+        "Demand Gen",
+        "Checkout Links",
+        "연말 프로모션"
+      ],
+      "history": [
+        {
+          "date": "2026-07-29",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "pinterest-holiday-2026-guide",
+      "eventKey": "pinterest-holiday-2026-planning",
+      "title": "Pinterest, 2026 홀리데이 캠페인 조기 준비 가이드 공개",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2026-07-30",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Pinterest Business",
+          "url": "https://business.pinterest.com/blog/holiday-2026-starts-now-a-pinterest-guide-to-success/"
+        }
+      ],
+      "summary": "Pinterest는 홀리데이 활동이 9월부터 증가한다며 카탈로그 정비, Performance+ 적용, 백투스쿨·할로윈 테스트, 시즌 전체 집행을 권고했다. 크리스마스 이후 Q5까지 소재와 예산을 이어가는 전략도 제시했다.",
+      "changes": "블랙프라이데이 직전 단기 집행보다 3분기 테스트부터 Q5까지 이어지는 장기 운영을 강조했다.",
+      "application": "한국 추석·빼빼로데이 테스트 결과를 연말 선물 캠페인에 재사용하고, 신년용 실용 가치 소재를 별도로 준비한다.",
+      "tags": [
+        "Pinterest",
+        "홀리데이",
+        "Q5"
+      ],
+      "history": [
+        {
+          "date": "2026-07-30",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-muse-image",
+      "eventKey": "meta-muse-image-2026",
+      "title": "Meta, 이미지 생성 모델 Muse Image 공개",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-07-07",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/"
+        }
+      ],
+      "summary": "Meta는 Meta Superintelligence Labs의 첫 이미지 생성 모델 Muse Image를 Meta AI에 출시했다. 복수 사진 합성, 프리셋, 스케치 기반 수정과 Instagram·WhatsApp 연동을 제공하며 Advantage+ creative 적용 계획도 밝혔다.",
+      "changes": "Meta의 이미지 생성이 단순 프롬프트 출력에서 개인 사진 합성·직접 수정과 광고 제작 연계로 확대됐다.",
+      "application": "인물·상품 합성 시 초상권과 원본 사용 동의를 확인하고, 실제 상품과 다른 생성 결과는 상세페이지 주 이미지로 쓰지 않는다.",
+      "tags": [
+        "Meta AI",
+        "Muse Image",
+        "이미지 생성"
+      ],
+      "history": [
+        {
+          "date": "2026-07-07",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

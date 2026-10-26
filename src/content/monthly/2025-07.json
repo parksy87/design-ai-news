@@ -1,0 +1,246 @@
+{
+  "period": "2025-07",
+  "label": "2025년 7월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "figma-make-general-availability",
+      "eventKey": "figma-make-ga-2025",
+      "title": "Figma Make와 Figma AI 기능 정식 출시",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-07-24",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Figma Blog",
+          "url": "https://www.figma.com/blog/figma-make-general-availability/"
+        }
+      ],
+      "summary": "Figma가 프롬프트로 인터랙티브 프로토타입과 웹 앱을 만드는 Figma Make를 일반 제공으로 전환했다. 라이브러리 가져오기와 Supabase 연동을 지원하며 이미지 편집·해상도 향상 등 Figma AI 기능도 베타를 종료했다.",
+      "changes": "제한적 베타였던 생성형 제작 기능을 모든 사용자가 시험할 수 있는 정식 제품 단계로 전환했다.",
+      "application": "상세페이지 인터랙션이나 프로모션 랜딩을 빠르게 시제품화하되 실제 배포 전 접근성·반응형·브랜드 규칙을 별도 검수한다.",
+      "tags": [
+        "Figma",
+        "프로토타이핑",
+        "생성형AI"
+      ],
+      "history": [
+        {
+          "date": "2025-07-24",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "canva-july-creative-updates",
+      "eventKey": "canva-july-2025-updates",
+      "title": "Canva, 스타일 참조 이미지와 LinkedIn Ads 연동 공개",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-07-31",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Canva Newsroom",
+          "url": "https://www.canva.com/newsroom/news/whats-new-july-2025/"
+        }
+      ],
+      "summary": "Canva가 Magic Media의 스타일 참조 이미지 생성, 편집 제어 개선, LinkedIn Ads 직접 내보내기 등 7월 업데이트를 발표했다. 반복 캠페인에서 시각적 일관성을 유지하고 다운로드·재업로드 단계를 줄이는 데 초점이 맞춰졌다.",
+      "changes": "텍스트 프롬프트만 쓰던 이미지 생성에 참조 스타일 제어가 더해지고 광고 플랫폼 전달 과정이 짧아졌다.",
+      "application": "브랜드별 기준 이미지를 고정해 시즌 배너 변형을 만들고 LinkedIn 집행 전 규격과 문구를 최종 확인한다.",
+      "tags": [
+        "Canva",
+        "스타일참조",
+        "LinkedIn Ads"
+      ],
+      "history": [
+        {
+          "date": "2025-07-31",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-file-picker-image-generation",
+      "eventKey": "shopify-file-picker-ai-image-2025",
+      "title": "Shopify 파일 선택기에 AI 이미지 생성 추가",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2025-07-28",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/image-generation-now-available-in-file-picker"
+        }
+      ],
+      "summary": "Shopify가 파일 선택기에서 바로 이미지를 생성하는 기능을 제공하기 시작했다. 테마 히어로 배너, 이메일 캠페인 로고 등 스토어 자산을 관리 화면 안에서 만들 수 있다.",
+      "changes": "Sidekick 중심이던 이미지 생성이 파일을 삽입하는 일반 작업 흐름으로 확장됐다.",
+      "application": "임시 배너와 소재 시안을 빠르게 만들되 상품 실물의 색·형태와 상표권 요소는 원본 대조 후 게시한다.",
+      "tags": [
+        "Shopify",
+        "상품이미지",
+        "배너"
+      ],
+      "history": [
+        {
+          "date": "2025-07-28",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-alexa-component-display-ads",
+      "eventKey": "amazon-alexa-plus-component-ads-2025",
+      "title": "Amazon, Alexa+ 홈 화면 광고를 컴포넌트형으로 전환",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-07-24",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/managed-service-ads-on-new-alexa-homescreen"
+        }
+      ],
+      "summary": "Amazon Ads가 Alexa+ 기반 Echo Show 홈 화면에 컴포넌트형 디스플레이 광고를 도입했다. 생성형 AI가 5·8·10인치 화면에 맞춰 자산을 조정하고 제작 소요 기간을 8일에서 4일로 줄인다고 밝혔다.",
+      "changes": "기기별 전용 템플릿 대신 다른 광고면과 공유 가능한 표준 자산 조합 방식으로 바뀌었다.",
+      "application": "국내 스마트 디스플레이 소재 기획에도 로고·상품·CTA를 분리한 모듈형 원본을 준비해 화면비 변형 비용을 낮춘다.",
+      "tags": [
+        "Amazon Ads",
+        "Alexa+",
+        "모듈형크리에이티브"
+      ],
+      "history": [
+        {
+          "date": "2025-07-24",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-conversations-business-messaging",
+      "eventKey": "meta-conversations-2025-business-tools",
+      "title": "Meta, 메시지 기반 발견·구매 도구 확대",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-07-01",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta for Business",
+          "url": "https://www.facebook.com/business/news/conversations-2025-new-business-messaging-tools-to-connect-with-customers-and-grow"
+        }
+      ],
+      "summary": "Meta가 Conversations 2025에서 WhatsApp 대화로 연결되는 광고와 비즈니스 발견 기능 확대를 발표했다. Google Business Profile에 WhatsApp 버튼을 붙이는 방식도 소개해 검색에서 상담까지의 경로를 단축했다.",
+      "changes": "광고 클릭 후 웹페이지 이동 중심에서 대화형 상담과 구매 지원을 직접 연결하는 접점이 늘었다.",
+      "application": "한국에서는 카카오 상담 등 실제 운영 채널을 기준으로 메시지 광고의 첫 화면, 응답 문구, 개인정보 고지를 함께 설계한다.",
+      "tags": [
+        "Meta",
+        "WhatsApp",
+        "대화형커머스"
+      ],
+      "history": [
+        {
+          "date": "2025-07-01",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-horizon-product-card-controls",
+      "eventKey": "shopify-horizon-1-0-5",
+      "title": "Shopify Horizon 상품 카드에 호버 이미지와 캐러셀 설정 추가",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-07-03",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/version-1-0-5-available-for-horizon-themes"
+        }
+      ],
+      "summary": "Horizon 테마 1.0.5에 상품 카드의 두 번째 이미지 호버 표시와 캐러셀 설정이 추가됐다. 변형 상품 이미지, 모바일 미디어 높이, 접근성과 다국어 장바구니 문제도 함께 수정됐다.",
+      "changes": "목록 카드에서 한 장만 보이던 기본 표현을 다중 이미지 탐색형으로 확장했다.",
+      "application": "국내 쇼핑몰 목록에서는 정면·사용 장면 순서를 통일하고 모바일에서 호버를 대신할 스와이프 동작을 점검한다.",
+      "tags": [
+        "Shopify",
+        "상품카드",
+        "UI"
+      ],
+      "history": [
+        {
+          "date": "2025-07-03",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-alt-text-translation",
+      "eventKey": "shopify-alt-translation-2025",
+      "title": "Shopify 이미지 대체 텍스트 다국어 번역 지원",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-07-17",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/image-alt-text-can-now-be-translated"
+        }
+      ],
+      "summary": "Shopify가 CSV 가져오기를 통한 이미지 ALT 텍스트 번역을 지원했다. 다국어 스토어의 접근성과 검색 최적화를 언어별로 관리할 수 있게 됐다.",
+      "changes": "이미지 설명을 단일 언어로만 관리하던 제약이 줄었다.",
+      "application": "한국어 ALT는 상품명 나열보다 이미지가 전달하는 핵심 정보와 옵션 차이를 짧고 구체적으로 작성한다.",
+      "tags": [
+        "Shopify",
+        "접근성",
+        "SEO",
+        "다국어"
+      ],
+      "history": [
+        {
+          "date": "2025-07-17",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

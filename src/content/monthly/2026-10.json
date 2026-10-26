@@ -1,0 +1,347 @@
+{
+  "period": "2026-10",
+  "label": "2026년 10월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "shopify-canvas-store-design",
+      "eventKey": "shopify-canvas-2026",
+      "title": "Shopify, Sidekick 기반 온라인 스토어 디자인 Canvas 공개",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2026-10-01",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify News",
+          "url": "https://www.shopify.com/news/introducing-canvas"
+        }
+      ],
+      "summary": "Shopify는 스토어의 모든 페이지를 한 화면에 펼쳐 보고 Sidekick과 대화하며 수정하는 Canvas를 발표했다. 정적 목업이 아니라 실제 코드를 렌더링해 제품·컬렉션·화면 크기별 페이지와 인터랙션을 미리 볼 수 있다.",
+      "changes": "페이지별 설정 패널 중심 편집에서 전체 스토어를 공간적으로 조망하고 AI와 실시간 공동 편집하는 방식으로 바뀌었다.",
+      "application": "한국 쇼핑몰 개편 시 홈·목록·상세·장바구니의 톤과 컴포넌트를 한 번에 비교하고 모바일 결제 흐름을 실제 데이터로 검수한다.",
+      "tags": [
+        "Shopify",
+        "Canvas",
+        "Sidekick"
+      ],
+      "history": [
+        {
+          "date": "2026-10-01",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "openai-chatgpt-visual-ads",
+      "eventKey": "openai-chatgpt-visual-ads-2026",
+      "title": "OpenAI, ChatGPT 이미지 생성 화면용 비주얼 광고 발표",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2026-10-05",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/"
+        }
+      ],
+      "summary": "OpenAI는 제품 영감·사용 장면·경험을 이미지로 보여주는 새 광고 형식을 발표했다. 미국 Free·Go 이용자의 이미지 생성 과정에서 일부 광고주와 테스트하며 광고는 명확히 표시되고 생성 이미지·답변과 분리된다.",
+      "changes": "대화 맥락의 텍스트 광고에서 이미지 생성 순간에 배치되는 시각적 상품 발견 형식으로 확장됐다.",
+      "application": "제품 단독 컷보다 실제 사용 장면과 차별 효익이 한눈에 보이는 이미지를 준비하고 AI 답변과 혼동되지 않는 브랜드 표시를 유지한다.",
+      "tags": [
+        "ChatGPT Ads",
+        "비주얼 광고",
+        "AI 광고"
+      ],
+      "history": [
+        {
+          "date": "2026-10-05",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-awny-ads-ai-tools",
+      "eventKey": "meta-awny-ads-2026",
+      "title": "Meta, Ads Creative Studio 확대와 AI 캠페인 도구 발표",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2026-10-06",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta for Business",
+          "url": "https://www.facebook.com/business/news/advertising-week-new-york-2026"
+        }
+      ],
+      "summary": "Meta는 Ads Creative Studio의 확대 제공, Meta AI business assistant의 캠페인 계획·제작·최적화·예약 기능, Detailed Targeting의 AI 오디언스 발견을 발표했다. 생성형 AI 영상 도구와 직접 결제 테스트도 확대했다.",
+      "changes": "소재 생성 보조에서 성과 인사이트, 타기팅, 테스트, 일정 관리, 결제까지 AI 지원 범위가 넓어졌다.",
+      "application": "Creative Studio 인사이트로 후킹·구도·제품 노출 요소를 태깅하고, 생성 영상과 원본 영상의 증분 성과를 별도 실험한다.",
+      "tags": [
+        "Meta Ads",
+        "Ads Creative Studio",
+        "생성형 영상"
+      ],
+      "history": [
+        {
+          "date": "2026-10-06",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-demand-gen-october-data",
+      "eventKey": "google-demand-gen-drop-2026-10",
+      "title": "Google Demand Gen, 데이터 강도 향상 지표 추가",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-10-13",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/"
+        }
+      ],
+      "summary": "Google은 데이터 설정이 만든 전환 증가를 보여주는 Data Strength Uplift 지표를 Ads에 추가했다. Data Manager를 DV360·Analytics로 확대하고 향상된 전환도 두 제품에 제공할 계획을 밝혔다.",
+      "changes": "자사 데이터 연결 여부를 단순 체크하는 수준에서 전환 성과에 미친 영향을 측정하는 방향으로 발전했다.",
+      "application": "캠페인별 태그·향상된 전환 적용 전후를 기록하고 소재 성과 개선과 측정 복구 효과를 구분해 해석한다.",
+      "tags": [
+        "Demand Gen",
+        "퍼스트파티 데이터",
+        "측정"
+      ],
+      "history": [
+        {
+          "date": "2026-10-13",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "openai-higgsfield-long-video",
+      "eventKey": "openai-higgsfield-gpt6-video-case",
+      "title": "Higgsfield, GPT-6 Astra로 10분 이상 AI 영상 제작 사례 공개",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-10-13",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+        }
+      ],
+      "summary": "OpenAI는 Higgsfield가 GPT-6 Astra로 기존 약 1분이던 생성 영상을 10분 이상으로 늘리고 외부 3D 도구 호출로 장면 일관성을 높인 사례를 공개했다. GPT-Image-2.5는 이미지 위 텍스트와 인포그래픽 표현에 활용됐다.",
+      "changes": "짧은 광고 컷 중심 AI 영상에서 장면 일관성을 유지하는 장편·교육·브랜드 영상 제작으로 활용 범위가 넓어졌다.",
+      "application": "긴 제품 소개는 캐릭터·제품·조명 기준표를 먼저 고정하고 장면별 생성 후 실제 제품 형태와 한글 텍스트를 수동 검수한다.",
+      "tags": [
+        "Higgsfield",
+        "GPT-6 Astra",
+        "AI 영상"
+      ],
+      "history": [
+        {
+          "date": "2026-10-13",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-channel-priority-budget",
+      "eventKey": "google-ads-channel-priority-budget-2026",
+      "title": "Google Ads, 채널 우선순위와 예산 상한 제어 발표",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2026-10-14",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/"
+        }
+      ],
+      "summary": "Google은 Search·Shopping·Performance Max·Demand Gen에서 채널을 높음·낮음 우선순위로 나누고 낮은 우선순위 채널의 일예산 비율을 제한하는 기능을 발표했다. 계정·캠페인·공유예산 수준에서 전 세계 순차 제공된다.",
+      "changes": "자동화 캠페인의 채널 배분을 전부 맡기거나 끄는 방식에서 우선순위와 상한을 주는 선택적 제어가 추가됐다.",
+      "application": "브랜드 검색·쇼핑을 높은 우선순위로 두고 실험 채널은 상한을 설정해 시즌 예산이 검증되지 않은 인벤토리로 과도하게 이동하지 않게 한다.",
+      "tags": [
+        "Google Ads",
+        "예산 제어",
+        "채널 우선순위"
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-apac-small-business-ai-study",
+      "eventKey": "meta-apac-smb-ai-study-2026",
+      "title": "Meta, 아태 소상공인 AI 활용 조사 공개",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-10-14",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/"
+        }
+      ],
+      "summary": "Meta가 의뢰한 아태 9개 시장 3,983개 소상공인 조사에서 84%가 AI를 사용했고 51%는 콘텐츠 제작·편집, 43%는 지역 광고·마케팅에 활용했다고 답했다. 표본은 국가 대표성이 아닌 다양한 사업 규모의 응답으로 설명됐다.",
+      "changes": "AI 광고 도구의 기능 발표를 넘어 소상공인의 실제 콘텐츠·마케팅 활용률과 교육 필요성을 공식 조사로 제시했다.",
+      "application": "소규모 팀에는 전면 자동화보다 광고 소재 템플릿, 금칙어, 승인 절차를 포함한 짧은 실무 교육부터 적용한다.",
+      "tags": [
+        "Meta",
+        "소상공인",
+        "AI 활용 조사"
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-lightroom-open-eyes-expand",
+      "eventKey": "adobe-lightroom-mobile-2026-10",
+      "title": "Lightroom 모바일, Open Eyes와 생성형 확장 추가",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-10-19",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/10/19/give-your-photos-a-second-chance-with-open-eyes-in-lightroom-on-mobile"
+        }
+      ],
+      "summary": "Adobe는 감은 눈을 감지해 자연스럽게 수정하는 Open Eyes와 원본 프레임 밖을 채워 화면비를 바꾸는 Generative Expand를 Lightroom 모바일에 추가했다. 라이브러리의 같은 인물 사진이 있으면 눈 색·모양·크기를 더 정확히 맞춘다.",
+      "changes": "모바일 보정이 색상·크롭 중심에서 인물 결함 수정과 소셜 규격용 장면 확장까지 확대됐다.",
+      "application": "인물 광고는 당사자 동의를 받고 수정 여부를 기록하며, 상품 주변 확장은 실제 구성품이나 패키지를 새로 생성하지 않게 제한한다.",
+      "tags": [
+        "Lightroom",
+        "Open Eyes",
+        "Generative Expand"
+      ],
+      "history": [
+        {
+          "date": "2026-10-19",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "openai-chatgpt-ads-89-countries",
+      "eventKey": "openai-chatgpt-ads-market-expansion-2026-10",
+      "title": "ChatGPT Ads, 89개국으로 확대",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-10-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+        }
+      ],
+      "summary": "OpenAI는 ChatGPT Ads를 26개국에 추가해 총 89개국으로 확대했으며 누적 10만 개 이상 광고주가 사용했다고 밝혔다. 광고는 Free·Go 요금제에만 표시되고 대화 내용은 광고주에게 판매하지 않는 원칙을 재확인했다.",
+      "changes": "동남아 확대 한 달 뒤 중남미·유럽·중동·아프리카·아시아를 추가하며 광고 플랫폼의 국제 범위를 크게 넓혔다.",
+      "application": "해외 캠페인은 국가별 번역만 바꾸지 말고 대화형 탐색 질문, 가격·배송 가능 지역, 현지 랜딩을 함께 현지화한다.",
+      "tags": [
+        "ChatGPT Ads",
+        "글로벌 광고",
+        "광고 원칙"
+      ],
+      "history": [
+        {
+          "date": "2026-10-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-holiday-bidding-budgeting",
+      "eventKey": "google-holiday-bidding-budgeting-2026",
+      "title": "Google, 연말용 수요 기반 예산·프로모션 모드 운영법 공개",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2026-10-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/"
+        }
+      ],
+      "summary": "Google은 연말 광고 운영을 위한 수요 기반 예산과 promotion mode를 Ads Decoded에서 소개했다. 성수기 입찰과 학습 기간에 관한 오해를 짚으며 최신 예산 도구의 활용법을 설명했다.",
+      "changes": "고정된 월 예산 중심 운영에서 성수기 수요와 프로모션 구간에 맞춰 예산·입찰을 조정하는 방식으로 강조점이 이동했다.",
+      "application": "국내 할인 일정별 예상 수요 곡선을 만들고 행사 시작·종료, 배송 마감에 맞춰 프로모션 모드와 예산 변경 시점을 사전 승인한다.",
+      "tags": [
+        "Google Ads",
+        "홀리데이",
+        "프로모션 모드"
+      ],
+      "history": [
+        {
+          "date": "2026-10-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

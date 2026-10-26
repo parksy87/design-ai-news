@@ -1,0 +1,283 @@
+{
+  "period": "2025-09",
+  "label": "2025년 9월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "google-asset-studio",
+      "eventKey": "google-asset-studio-2025",
+      "title": "Google Ads, 생성·검토·미리보기를 묶은 Asset Studio 발표",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-09-10",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/generate-creative-assets-google-ai-asset-studio/"
+        }
+      ],
+      "summary": "Google Ads가 생성형 제작, 공유 검토와 채널별 광고 미리보기를 한곳에 모은 Asset Studio를 발표했다. 스타일 참조, Imagen 4 이미지 생성과 공유 링크를 통해 연말 캠페인 제작·승인을 단축하는 구상이다.",
+      "changes": "캠페인별로 흩어져 있던 AI 자산 생성과 미리보기가 계정 단위 크리에이티브 작업 공간으로 통합됐다.",
+      "application": "한국어 텍스트가 포함된 결과는 글자 오류를 점검하고 공유 링크 승인 후에도 실제 노출 규격별 안전 영역을 재검수한다.",
+      "tags": [
+        "Google Ads",
+        "Asset Studio",
+        "Imagen 4"
+      ],
+      "history": [
+        {
+          "date": "2025-09-10",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-agentic-creative-studio",
+      "eventKey": "amazon-agentic-creative-studio-2025",
+      "title": "Amazon Ads, 조사부터 영상·디스플레이 제작까지 수행하는 에이전트 공개",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-09-17",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/library/news/amazon-ads-agentic-ai-creative-tool"
+        },
+        {
+          "name": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai"
+        }
+      ],
+      "summary": "Amazon Ads가 Creative Studio에서 상품·고객 신호를 조사하고 콘셉트, 스토리보드, 영상·디스플레이 광고까지 만드는 대화형 에이전트를 베타로 공개했다. 판매자용 Seller Assistant도 재고·규정 준수·광고 제작을 계획하고 실행하는 방향으로 확장됐다.",
+      "changes": "단일 이미지 생성 도구에서 캠페인 전략과 다단계 제작을 연결하는 에이전트형 작업으로 발전했다.",
+      "application": "상품 상세정보를 생성 원천으로 쓰므로 제목·핵심 기능·주의사항을 먼저 정비하고 생성 소재의 과장 표현을 사람 검수로 차단한다.",
+      "tags": [
+        "Amazon Ads",
+        "에이전트AI",
+        "Creative Studio"
+      ],
+      "history": [
+        {
+          "date": "2025-09-17",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-ai-max-global-beta",
+      "eventKey": "google-ai-max-global-2025",
+      "title": "Google AI Max 검색 캠페인 글로벌 베타 확대",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-09-10",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/google-ai-max-expands-globally/"
+        }
+      ],
+      "summary": "Google이 AI Max for Search를 전 세계 광고주가 쓸 수 있는 베타로 확대했다. 브랜드 요구를 반영하는 텍스트 가이드라인과 캠페인 흐름 안의 원클릭 실험도 예고했다.",
+      "changes": "제한된 테스트에서 Ads Editor·Search Ads 360·API까지 포함한 글로벌 사용 단계로 넓어졌다.",
+      "application": "자동 생성 문구에 금칙어·필수 고지·브랜드 어조를 지침으로 정의하고 기존 검색 캠페인과 분리 실험한다.",
+      "tags": [
+        "Google Ads",
+        "AI Max",
+        "검색광고"
+      ],
+      "history": [
+        {
+          "date": "2025-09-10",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-prime-big-deal-days-2025",
+      "eventKey": "amazon-prime-big-deal-days-2025",
+      "title": "Amazon, Prime Big Deal Days로 연말 쇼핑 시즌 조기 개막",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-09-28",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Press Center",
+          "url": "https://press.aboutamazon.com/2025/9/jumpstart-your-holiday-shopping-with-prime-big-deal-days-millions-of-deals-deep-discounts-and-more-amazon-exclusive-products-in-the-holiday-shop-than-ever-before"
+        }
+      ],
+      "summary": "Amazon이 10월 7~8일 Prime Big Deal Days 일정과 카테고리별 할인, 하루 세 번 갱신되는 Today's Big Deals를 발표했다. 할로윈부터 크리스마스 상품까지 한 행사 안에 묶어 연말 수요를 앞당겼다.",
+      "changes": "블랙프라이데이 직전 집중형에서 10월 초부터 한정 딜을 반복 노출하는 장기 시즌 운영이 강화됐다.",
+      "application": "국내 11월 행사도 사전 공개·본행사·마감 딜로 나누고 각 단계의 배너 날짜와 재고 문구를 별도 관리한다.",
+      "tags": [
+        "Amazon",
+        "Prime Big Deal Days",
+        "연말프로모션"
+      ],
+      "history": [
+        {
+          "date": "2025-09-28",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "shopify-email-dynamic-products",
+      "eventKey": "shopify-email-dynamic-products-2025",
+      "title": "Shopify Email에 동적 상품 섹션 추가",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-09-25",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/shopify-email-now-supports-dynamic-product-sections"
+        }
+      ],
+      "summary": "Shopify Email이 발송 시점의 베스트셀러와 최근 등록 상품을 자동 표시하는 동적 섹션을 지원했다. 캠페인과 자동화 이메일 모두 최신 상품 구성을 반영할 수 있다.",
+      "changes": "메일마다 상품 블록을 수동 교체하던 방식에서 발송 시 데이터 기반 자동 구성으로 바뀌었다.",
+      "application": "품절·예약 상품 제외 규칙을 확인하고 자동 상품 카드의 이미지 비율과 한글 상품명 줄바꿈을 테스트한다.",
+      "tags": [
+        "Shopify Email",
+        "상품추천",
+        "CRM"
+      ],
+      "history": [
+        {
+          "date": "2025-09-25",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-amc-self-service",
+      "eventKey": "amazon-amc-sponsored-ads-direct-access",
+      "title": "Sponsored Ads 광고주에 Amazon Marketing Cloud 직접 개방",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2025-09-16",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/direct-access-to-amc-for-sponsored-ads-advertiser"
+        }
+      ],
+      "summary": "Amazon Marketing Cloud가 Sponsored Ads 계정에서 즉시 접근 가능한 셀프서비스 형태로 확대됐다. 노코드 템플릿과 AI 지원으로 성과 분석과 고의도 잠재고객 생성을 시작할 수 있다.",
+      "changes": "담당자나 파트너를 거치던 온보딩이 계정 내 직접 접근으로 단축됐다.",
+      "application": "소재별 노출 이후 상세페이지 조회·구매 경로를 분석해 단순 클릭률보다 실제 구매 기여가 높은 디자인을 찾는다.",
+      "tags": [
+        "Amazon Marketing Cloud",
+        "광고분석",
+        "오디언스"
+      ],
+      "history": [
+        {
+          "date": "2025-09-16",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "walmart-october-deals-announcement",
+      "eventKey": "walmart-deals-october-2025",
+      "title": "Walmart, 회원 제한 없는 10월 조기 할인 행사 발표",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-09-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Walmart Corporate",
+          "url": "https://corporate.walmart.com/news/2025/09/23/walmart-deals-delivered-kick-off-the-season-with-early-savings-october-7-12-no-membership-required"
+        }
+      ],
+      "summary": "Walmart가 10월 7~12일 조기 시즌 할인 행사를 발표하고 회원 가입 없이 참여할 수 있음을 전면에 내세웠다. 온라인과 매장, 당일·익스프레스 배송을 함께 강조했다.",
+      "changes": "경쟁사의 회원 전용 행사와 달리 접근성 높은 가격 메시지와 배송 편의를 차별점으로 제시했다.",
+      "application": "국내 경쟁 프로모션에서는 할인율만 모방하지 말고 회원 조건·배송 속도·수령 방식 중 실제 우위를 첫 화면에 명확히 제시한다.",
+      "tags": [
+        "Walmart",
+        "경쟁사사례",
+        "조기할인"
+      ],
+      "history": [
+        {
+          "date": "2025-09-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "flipkart-big-billion-days-2025",
+      "eventKey": "flipkart-big-billion-days-2025",
+      "title": "Flipkart, Big Billion Days 일정과 조기 접근 구조 공개",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2025-09-15",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Flipkart Stories",
+          "url": "https://stories.flipkart.com/announcement/flipkart-s-the-big-billion-days-returns-on-23-september-2025-promising-unmatched-value-selection-and-speed-in-delivery"
+        }
+      ],
+      "summary": "Flipkart가 9월 23일 Big Billion Days 시작과 Black·Plus 회원의 24시간 조기 접근을 발표했다. Early Bird Deals와 10분 배송 등 가격·선택·속도를 한 캠페인 메시지로 결합했다.",
+      "changes": "본행사 하루 전 회원 선공개와 사전 딜을 연결해 단계별 긴급성을 강화했다.",
+      "application": "한국 시즌전도 VIP 선공개와 일반 공개의 혜택 차이를 명확히 하고 카운트다운·배송 약속을 실제 운영 역량과 맞춘다.",
+      "tags": [
+        "Flipkart",
+        "쇼핑축제",
+        "얼리액세스"
+      ],
+      "history": [
+        {
+          "date": "2025-09-15",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "period": "2026-09",
+  "label": "2026년 9월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "adobe-for-slack",
+      "eventKey": "adobe-slack-creative-plugin",
+      "title": "Adobe, Slack에 70개 이상 크리에이티브 도구 연결",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-09-02",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/09/02/introducing-adobe-for-slack"
+        }
+      ],
+      "summary": "Adobe는 Slack Business+·Enterprise+에 Firefly, Express, Photoshop, Premiere 등 70개 이상의 도구를 연결했다. 대화·파일·채널 맥락으로 캠페인 소재를 만들고 채널별 크기 변형, 상품 이미지 일괄 편집을 수행한다.",
+      "changes": "크리에이티브 앱 밖의 협업 대화를 바로 제작 입력값으로 활용할 수 있게 됐다.",
+      "application": "승인된 Slack 브리프만 소스로 지정하고 생성본은 리뷰 채널에서 카피·브랜드·권리 검수를 거쳐 배포한다.",
+      "tags": [
+        "Adobe",
+        "Slack",
+        "협업"
+      ],
+      "history": [
+        {
+          "date": "2026-09-02",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "tiktok-out-of-phone-europe",
+      "eventKey": "tiktok-out-of-phone-europe-2026",
+      "title": "TikTok, 유럽 디지털 옥외매체로 크리에이터 콘텐츠 확장",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-09-03",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "TikTok Newsroom",
+          "url": "https://newsroom.tiktok.com/tiktok-expands-out-of-phone-program-across-europe?lang=en-150"
+        }
+      ],
+      "summary": "TikTok은 영국·프랑스·벨기에·스페인·이탈리아의 쇼핑몰, 슈퍼마켓, 체육관, 대학 등으로 Out of Phone 프로그램을 확대했다. 광고주는 TikTok 크리에이터 콘텐츠를 후원하거나 DOOH로 연장할 수 있다.",
+      "changes": "세로형 모바일 콘텐츠의 유통 범위가 실제 생활 공간의 대형 디지털 스크린으로 넓어졌다.",
+      "application": "숏폼 원본을 무음·원거리 시청에 맞게 큰 자막과 단순한 제품 실루엣으로 재편집하고 장소별 맥락을 반영한다.",
+      "tags": [
+        "TikTok",
+        "DOOH",
+        "크리에이터 콘텐츠"
+      ],
+      "history": [
+        {
+          "date": "2026-09-03",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-acrobat-stylize",
+      "eventKey": "adobe-acrobat-ai-stylize-2026",
+      "title": "Acrobat AI, 문서를 Express 템플릿으로 스타일링",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-09-09",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/09/09/show-up-sharper-faster-with-new-acrobat-ai"
+        }
+      ],
+      "summary": "Adobe는 일반 PDF의 원문을 유지하면서 수천 개 Adobe Express 템플릿을 적용하는 Acrobat Stylize 기능을 발표했다. 제안서·인보이스·보고서를 빠르게 전문적인 레이아웃으로 바꿀 수 있다.",
+      "changes": "PDF 요약·질의 중심의 AI에서 문서 내용을 보존한 시각 디자인 변환까지 확장됐다.",
+      "application": "B2B 상품 제안서와 견적서에 브랜드 템플릿을 적용하되 숫자·약관·표의 원문 보존 여부를 대조한다.",
+      "tags": [
+        "Adobe Acrobat",
+        "Adobe Express",
+        "문서 디자인"
+      ],
+      "history": [
+        {
+          "date": "2026-09-09",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-agentic-holiday-shopping",
+      "eventKey": "google-agentic-commerce-holiday-2026",
+      "title": "Google, YouTube 광고용 Business Agent 베타 발표",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2026-09-16",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/"
+        }
+      ],
+      "summary": "Google은 미국 소매업체를 대상으로 YouTube 상품 피드 광고 안에서 질문에 답하는 Business Agent 베타를 발표했다. AI 성과 인사이트의 정식 제공과 UCP 기반 결제 통합도 함께 소개했다.",
+      "changes": "영상 광고가 랜딩 전 노출 수단에서 제품 질문과 비교를 처리하는 대화형 구매 접점으로 발전했다.",
+      "application": "상세페이지의 소재·규격·배송·반품 FAQ를 구조화해 대화형 광고 답변과 자사몰 정보가 일치하도록 관리한다.",
+      "tags": [
+        "Google Shopping",
+        "Business Agent",
+        "YouTube"
+      ],
+      "history": [
+        {
+          "date": "2026-09-16",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-holiday-sales-tactics",
+      "eventKey": "google-holiday-retail-tactics-2026",
+      "title": "Google, 연말 판매용 AI Max for Shopping 운영법 제시",
+      "category": "시즌·프로모션",
+      "priority": "normal",
+      "publishedAt": "2026-09-16",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/"
+        }
+      ],
+      "summary": "Google은 연말 시즌에 하단 퍼널 성과와 상단 퍼널 발견을 함께 운영하고 AI Max for Shopping의 텍스트 맞춤화·최종 URL 확장을 활용하라고 안내했다. 신규 고객 확보와 충성 고객 유지도 함께 다뤘다.",
+      "changes": "단일 구매 전환 최적화에서 발견 단계와 고객 생애주기를 함께 보는 시즌 전략으로 범위가 넓어졌다.",
+      "application": "신규 고객용 선물 가이드와 재구매 고객용 세트 제안을 나누고 각각 다른 랜딩과 수익 목표를 적용한다.",
+      "tags": [
+        "AI Max for Shopping",
+        "홀리데이",
+        "리테일"
+      ],
+      "history": [
+        {
+          "date": "2026-09-16",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "meta-threads-podcast-toolkit",
+      "eventKey": "meta-threads-podcast-tools",
+      "title": "Threads, 팟캐스트 카드·배너·성과 인사이트 추가",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-09-16",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/"
+        }
+      ],
+      "summary": "Meta는 Threads에 팟캐스트 프로필 배너, 에피소드 링크 카드, 대본·게스트 카드, 새 에피소드 알림, Podcast Insights를 추가했다. 클릭과 저장 등 Threads가 만든 반응도 확인할 수 있다.",
+      "changes": "일반 링크 게시에서 프로그램 정체성, 에피소드 홍보, 성과 측정을 갖춘 전용 시각 포맷으로 확장됐다.",
+      "application": "브랜드 팟캐스트의 커버·게스트·핵심 문장을 카드 체계로 통일하고 클릭·저장 기준으로 디자인을 반복 개선한다.",
+      "tags": [
+        "Threads",
+        "콘텐츠 카드",
+        "브랜드 미디어"
+      ],
+      "history": [
+        {
+          "date": "2026-09-16",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "pinterest-holiday-optimization-score",
+      "eventKey": "pinterest-campaign-optimization-score-2026",
+      "title": "Pinterest, 홀리데이 캠페인 최적화 점수 공개",
+      "category": "시즌·프로모션",
+      "priority": "high",
+      "publishedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Pinterest Business",
+          "url": "https://business.pinterest.com/blog/holiday-2026-pinterest-campaign-optimization/"
+        }
+      ],
+      "summary": "Pinterest는 캠페인 설정·크리에이티브 조합·신호 강도를 평가하는 최적화 점수를 소개했다. 광고 그룹당 최소 3개 형식과 5개 이상 소재, Performance+ creative 활용을 권고했다.",
+      "changes": "시즌 캠페인 개선 항목을 추상적 권고가 아니라 점수와 구체적인 소재 다양성 기준으로 제시했다.",
+      "application": "제품군마다 정적·영상·캐러셀 형식과 5개 이상 후킹 변형을 준비하고 태그·CAPI 신호 누락을 함께 점검한다.",
+      "tags": [
+        "Pinterest",
+        "캠페인 최적화",
+        "홀리데이"
+      ],
+      "history": [
+        {
+          "date": "2026-09-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-sponsored-ads-smb-tools",
+      "eventKey": "amazon-sponsored-ads-smb-2026",
+      "title": "Amazon Ads, 소상공인용 캠페인 인텔리전스 대시보드 발표",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-09-22",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/library/expert-advice/sponsored-ads-small-business-tools"
+        }
+      ],
+      "summary": "Amazon Ads는 Sponsored Ads의 타기팅·입찰·예산 성과를 분석하고 개선 행동을 제안하는 인텔리전스 대시보드를 발표했다. Creative Agent와 함께 소규모 광고주의 제작·운영 장벽을 낮추는 업데이트다.",
+      "changes": "개별 캠페인 수치 확인에서 원인 설명과 실행 가능한 최적화 제안을 한 화면에 제공하는 방식으로 발전했다.",
+      "application": "AI 제안을 즉시 반영하지 말고 소재·입찰·예산 중 한 변수씩 변경해 실제 증분 효과를 기록한다.",
+      "tags": [
+        "Amazon Ads",
+        "Sponsored Ads",
+        "소상공인"
+      ],
+      "history": [
+        {
+          "date": "2026-09-22",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "openai-chatgpt-ads-asia-expansion",
+      "eventKey": "openai-chatgpt-ads-market-expansion-2026-09",
+      "title": "ChatGPT Ads, 동남아 6개국·대만으로 확대",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-09-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan/"
+        }
+      ],
+      "summary": "OpenAI는 ChatGPT Ads를 인도네시아·말레이시아·필리핀·싱가포르·태국·베트남·대만에 확대해 60개 이상 국가에서 제공한다고 발표했다. 광고는 Free·Go 요금제에만 노출된다.",
+      "changes": "한국·일본·인도 등 초기 아시아태평양 시장에서 동남아와 대만까지 광고 판매 범위가 넓어졌다.",
+      "application": "동남아 진출 브랜드는 검색 키워드가 아닌 대화 맥락에서 이해되는 문제·효익 중심 상품 설명과 현지 언어 랜딩을 준비한다.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Ads",
+        "동남아"
+      ],
+      "history": [
+        {
+          "date": "2026-09-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-ai-max-reporting",
+      "eventKey": "google-ai-max-reporting-ai-brief",
+      "title": "Google AI Max, 검색어·소재·랜딩 통합 보고 발표",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2026-09-23",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/"
+        }
+      ],
+      "summary": "Google은 AI Max에서 어떤 검색어가 광고를 유발했고 어떤 소재와 랜딩이 노출됐는지 한 화면에 보여주는 보고 기능을 발표했다. AI Brief 비공개 베타도 일본어 등 7개 언어로 확대했다.",
+      "changes": "AI 자동화의 결과를 집계 성과로만 보던 한계를 줄이고 검색 의도부터 랜딩까지 연결해 검증할 수 있게 했다.",
+      "application": "브랜드 금칙어, 생성 카피, 최종 URL을 주간 단위로 내려받아 부적절한 조합과 상세페이지 불일치를 검수한다.",
+      "tags": [
+        "Google AI Max",
+        "보고서",
+        "AI Brief"
+      ],
+      "history": [
+        {
+          "date": "2026-09-23",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-gemini-claude",
+      "eventKey": "adobe-gemini-claude-plugins-2026",
+      "title": "Adobe, Gemini 연결 및 Claude 레이어 편집 기능 발표",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-09-24",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/09/24/adobe-comes-to-gemini-expands-what-you-can-do-in-claude"
+        }
+      ],
+      "summary": "Adobe는 Gemini에서 Photoshop·Lightroom·Express·Firefly로 상품 사진과 마케팅 소재를 만드는 기능을 발표했다. Claude에는 80개 이상 도구와 Express 디자인의 이미지·카피·색상·폰트를 개별 편집하는 레이어 편집기를 추가했다.",
+      "changes": "대화형 생성 결과를 통째로 재생성하던 방식에서 챗봇 안에서 레이어 단위로 직접 수정하는 방식으로 발전했다.",
+      "application": "상품 사진 일괄 보정은 Gemini에서 시작하고, Claude 레이어 편집에서 브랜드 컬러·폰트·한국어 줄바꿈을 수동 조정한다.",
+      "tags": [
+        "Adobe",
+        "Gemini",
+        "Claude"
+      ],
+      "history": [
+        {
+          "date": "2026-09-24",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-demand-gen-september",
+      "eventKey": "google-demand-gen-drop-2026-09",
+      "title": "Demand Gen, YouTube 대화형 상품 안내와 원클릭 랜딩 추가",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-09-24",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google 공식 블로그",
+          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/"
+        }
+      ],
+      "summary": "Google은 상품 피드가 있는 YouTube 광고 옆에서 질문에 답하는 Business Agent와 Shorts·Gmail 이미지 광고의 원클릭 랜딩을 발표했다. Google Maps에는 제휴 위치 확장도 추가했다.",
+      "changes": "시각 광고의 클릭 단계를 줄이고 영상 시청 중 제품 질문을 해결하는 대화형 전환 경로를 만들었다.",
+      "application": "9:16 풀블리드 이미지는 한 번의 탭 후 보이는 모바일 랜딩 첫 화면과 메시지·제품 순서를 동일하게 맞춘다.",
+      "tags": [
+        "Demand Gen",
+        "YouTube Ads",
+        "원클릭"
+      ],
+      "history": [
+        {
+          "date": "2026-09-24",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-branded-conversations",
+      "eventKey": "amazon-branded-conversations-2026",
+      "title": "Amazon Ads, 브랜드 지식을 반영한 쇼핑 대화 발표",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2026-09-29",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/library/news/branded-conversations-review-requests"
+        }
+      ],
+      "summary": "Amazon Ads는 Alexa for Shopping 대화에 브랜드가 제공한 전문 지식을 반영하는 Branded Conversations를 발표했다. 제품 차이, 고객 요구별 선택, 함께 쓰는 제품 정보를 활용해 구매 결정을 돕는다.",
+      "changes": "상세페이지·스토어·캠페인 데이터만 쓰던 대화형 광고에 브랜드가 직접 제공하는 비교·조합 지식을 추가했다.",
+      "application": "제품별 추천 대상·비추천 조건·조합 사용법을 사실 기반 문장으로 정리하고 과장 표현은 국내 심의 기준으로 검수한다.",
+      "tags": [
+        "Amazon Ads",
+        "Alexa for Shopping",
+        "대화형 커머스"
+      ],
+      "history": [
+        {
+          "date": "2026-09-29",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-ads-agent-dva",
+      "eventKey": "amazon-ads-agent-2026",
+      "title": "Amazon Ads Agent, 전 퍼널 캠페인을 AI 우선 플랫폼으로 통합",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-09-29",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/en-gb/library/news/amazon-ads-agent"
+        }
+      ],
+      "summary": "Amazon Ads는 Sponsored Ads, Full-Funnel Campaigns, Display·Video·Audio를 하나로 묶은 Amazon Ads Agent를 발표했다. 자연어로 캠페인 생성·최적화·오디언스·분석을 다루고 수동 설정과 AI 자동화를 섞어 쓸 수 있다.",
+      "changes": "분리된 콘솔과 캠페인 유형을 대화형 AI가 연결하는 단일 광고 플랫폼으로 재구성했다.",
+      "application": "AI가 만든 소재·타기팅·예산안을 초안으로 받고 브랜드 안전성, 마진, 재고 제약을 사람이 승인하는 단계로 운영한다.",
+      "tags": [
+        "Amazon Ads Agent",
+        "전 퍼널",
+        "에이전틱 AI"
+      ],
+      "history": [
+        {
+          "date": "2026-09-29",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-responsive-ecommerce-creative",
+      "eventKey": "amazon-rec-reimagined-2026",
+      "title": "Amazon REC, 영상·캐러셀·쇼핑 대화형 디스플레이로 개편",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-09-30",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/unboxed-2026-responsive-ecommerce-creative"
+        }
+      ],
+      "summary": "Amazon은 Responsive eCommerce Creative에 인배너 영상, 3~6개 상품 캐러셀, Alexa for Shopping 대화 프롬프트, Alexa+·Fire Tablet용 형식을 추가했다. 브랜드 아이덴티티 제어와 노출 투명성도 강화했다.",
+      "changes": "자동 크기 조정형 상품 광고에서 풍부한 미디어와 대화형 구매를 포함한 적응형 디스플레이 체계로 확대됐다.",
+      "application": "상품 3~6개의 조합 논리, 영상 안전 영역, 대화 프롬프트 답변 근거를 피드와 브랜드 가이드에 함께 정의한다.",
+      "tags": [
+        "Amazon REC",
+        "캐러셀",
+        "대화형 광고"
+      ],
+      "history": [
+        {
+          "date": "2026-09-30",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

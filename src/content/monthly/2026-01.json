@@ -1,0 +1,252 @@
+{
+  "period": "2026-01",
+  "label": "2026년 1월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "google-shopping-promotion-policy-expansion",
+      "eventKey": "google-shopping-promotion-policy-2026-01",
+      "title": "구글 쇼핑 프로모션, 구독 할인과 BOGO 표기 지원",
+      "category": "정책·규정",
+      "priority": "high",
+      "publishedAt": "2026-01-07",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Merchant Center Help",
+          "url": "https://support.google.com/merchants/answer/16796881?hl=en"
+        }
+      ],
+      "summary": "구글은 쇼핑 프로모션에서 구독료 할인·무료 체험을 허용하고 BOGO, B1G1, MRP, MSRP 같은 일반 약어를 지원한다고 밝혔다. 브라질에서는 특정 결제수단과 디지털 지갑 캐시백 프로모션도 지원한다.",
+      "changes": "기존보다 허용되는 프로모션 유형과 표현 범위가 넓어졌다.",
+      "application": "구독형 상품은 프로모션 피드에 subscribe_and_save 조건을 넣고, 상세페이지와 결제 단계의 할인 조건을 동일하게 표시한다.",
+      "tags": [
+        "Google Shopping",
+        "프로모션",
+        "구독",
+        "정책"
+      ],
+      "history": [
+        {
+          "date": "2026-01-07",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-universal-commerce-protocol",
+      "eventKey": "google-ucp-direct-offers-2026",
+      "title": "구글, UCP와 AI 모드 ‘Direct Offers’ 공개",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2026-01-11",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/"
+        }
+      ],
+      "summary": "구글은 에이전트형 상거래를 위한 개방형 Universal Commerce Protocol과 검색에서 브랜드와 대화하는 Business Agent를 발표했다. AI Mode의 Direct Offers 파일럿은 구매 의도가 높은 이용자에게 할인 제안을 노출한다.",
+      "changes": "상품 검색·상담·할인·결제가 대화형 AI 흐름 안에서 연결되기 시작했다.",
+      "application": "상품 속성, 배송, 할인 조건을 구조화하고 AI가 인용하기 쉬운 명확한 상세페이지 문구를 준비한다.",
+      "tags": [
+        "Google",
+        "UCP",
+        "AI 쇼핑",
+        "Direct Offers"
+      ],
+      "history": [
+        {
+          "date": "2026-01-11",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "higgsfield-click-to-ad-openai",
+      "eventKey": "openai-higgsfield-click-to-ad-case",
+      "title": "상품 URL을 소셜 영상 광고로 바꾸는 Higgsfield 사례",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-01-21",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/higgsfield/"
+        }
+      ],
+      "summary": "OpenAI는 Higgsfield가 GPT-4.1·GPT-5로 기획하고 Sora 2로 영상을 생성하는 과정을 공개했다. Click-to-Ad는 상품페이지 URL을 분석해 소셜 플랫폼 문법에 맞는 영상 광고를 만든다.",
+      "changes": "프롬프트 중심 제작에서 상품 URL과 사전 설계된 트렌드 프리셋 중심 제작으로 이동했다.",
+      "application": "상품페이지의 핵심 효익과 시각 앵커를 정돈한 뒤, 생성 영상은 후킹·제품 일관성·표시광고 문구를 사람이 검수한다.",
+      "tags": [
+        "OpenAI",
+        "Higgsfield",
+        "Sora 2",
+        "영상 광고"
+      ],
+      "history": [
+        {
+          "date": "2026-01-21",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-firefly-foundry-brand-models",
+      "eventKey": "adobe-firefly-foundry-brand-ip-2026",
+      "title": "Adobe Firefly Foundry, 브랜드·IP 맞춤형 생성 모델 제시",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-01-22",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/01/22/adobe-partners-artists-power-new-era-media-entertainment-firefly-foundry"
+        }
+      ],
+      "summary": "Adobe는 기업이나 IP 소유자의 고유 콘텐츠로 조정해 이미지·영상·오디오·3D·벡터를 생성하는 Firefly Foundry 활용 사례를 발표했다. 브랜드 세계관과 권리 통제를 유지하면서 제작 규모를 넓히는 데 초점을 맞췄다.",
+      "changes": "범용 생성 모델을 넘어 소유 콘텐츠에 맞춘 멀티모달 브랜드 모델이 제시됐다.",
+      "application": "브랜드 자산의 권리 범위와 승인된 학습 자료를 먼저 정리하고, 생성물 검수 기준을 캠페인 가이드에 포함한다.",
+      "tags": [
+        "Adobe Firefly",
+        "브랜드",
+        "IP",
+        "맞춤 모델"
+      ],
+      "history": [
+        {
+          "date": "2026-01-22",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "canva-claude-on-brand-design",
+      "eventKey": "canva-claude-brand-kit-connector",
+      "title": "Canva, Claude 안에서 브랜드 디자인 생성 지원",
+      "category": "AI 도구",
+      "priority": "normal",
+      "publishedAt": "2026-01-25",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Canva Newsroom",
+          "url": "https://www.canva.com/newsroom/news/claude-ai-connector/"
+        }
+      ],
+      "summary": "Canva는 Claude 대화 안에서 Brand Kit의 색상·글꼴·보이스를 적용한 프레젠테이션과 비주얼을 생성하는 기능을 발표했다. 결과물은 Canva에서 계속 편집할 수 있다.",
+      "changes": "AI 대화 결과를 복사하는 방식에서 브랜드 규칙이 적용된 편집 가능 디자인 생성으로 확장됐다.",
+      "application": "국문·영문 Brand Kit와 금칙어를 정비하고 초안 생성 후 한글 줄바꿈과 상표 사용을 검수한다.",
+      "tags": [
+        "Canva",
+        "Claude",
+        "Brand Kit",
+        "브랜드 일관성"
+      ],
+      "history": [
+        {
+          "date": "2026-01-25",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "photoshop-firefly-2k-reference-image",
+      "eventKey": "photoshop-firefly-quality-2026-01",
+      "title": "Photoshop 생성형 채우기 2K 품질과 객체 참조 강화",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2026-01-27",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/01/27/new-photoshop-innovations-provide-creative-pros-more-control-realism-precision"
+        }
+      ],
+      "summary": "Adobe는 Photoshop의 Generative Fill·Expand·Remove 결과를 2K로 높이고 디테일과 프롬프트 일치도를 개선했다고 발표했다. 객체 참조 이미지는 크기·회전·조명·색·원근을 장면에 맞추면서 정체성을 보존한다.",
+      "changes": "생성 결과의 해상도와 합성 일관성이 개선되고 객체 기반 참조 제어가 정식 제공됐다.",
+      "application": "상품 누끼를 객체 참조로 고정해 배경별 시안을 만들고, 라벨·패키지 텍스트는 원본 레이어로 재합성한다.",
+      "tags": [
+        "Photoshop",
+        "Firefly",
+        "상품 이미지",
+        "Generative Fill"
+      ],
+      "history": [
+        {
+          "date": "2026-01-27",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-sundance-generative-workflow",
+      "eventKey": "adobe-sundance-firefly-workflow-2026",
+      "title": "Adobe, Sundance 제작팀의 Firefly 실전 워크플로 공개",
+      "category": "광고 디자인",
+      "priority": "normal",
+      "publishedAt": "2026-01-30",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2026/01/30/sundance-dispatch-expanding-creative-expression-filmmaking-generative-ai"
+        }
+      ],
+      "summary": "Adobe는 Sundance 프로젝트에서 Firefly Boards를 무드보드·스토리보드·협업 허브로 쓰고 Photoshop, Premiere, After Effects로 마감한 사례를 공개했다. Veo, Nano Banana, ElevenLabs 등 파트너 모델도 함께 사용됐다.",
+      "changes": "단일 생성 도구가 아니라 다중 모델 탐색과 전문 편집 앱을 잇는 제작 흐름이 구체화됐다.",
+      "application": "캠페인 콘셉트 보드에서 모델별 시안을 비교하고 선택된 컷만 전문 편집 도구로 넘기는 승인 단계를 만든다.",
+      "tags": [
+        "Adobe Firefly",
+        "Firefly Boards",
+        "워크플로",
+        "사례"
+      ],
+      "history": [
+        {
+          "date": "2026-01-30",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "period": "2025-06",
+  "label": "2025년 6월",
+  "checkedAt": "2026-10-26",
+  "items": [
+    {
+      "id": "amazon-single-book-sponsored-brands",
+      "eventKey": "amazon-single-book-sponsored-brands-2025",
+      "title": "Amazon Sponsored Brands, 단일 도서 작가까지 확대",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-06-06",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/sponsored-brand-now-available-for-single-book-authors"
+        }
+      ],
+      "summary": "Amazon이 한 권만 출간한 작가도 Sponsored Brands의 맞춤 이미지·영상 광고를 사용할 수 있게 했다. 책의 테마에 맞는 이미지를 무료 AI 이미지 생성 기능으로 제작할 수도 있다.",
+      "changes": "여러 도서를 보유해야 했던 접근 제한이 사라져 단일 타이틀도 브랜드형 광고와 AI 이미지를 활용할 수 있게 됐다.",
+      "application": "출판사는 표지 외에 장르·배경을 설명하는 이미지를 만들되 소설 속 인물과 내용이 실제 본문을 오인시키지 않도록 저자 승인을 받는다.",
+      "tags": [
+        "Amazon Ads",
+        "도서 광고",
+        "AI 이미지",
+        "Sponsored Brands"
+      ],
+      "history": [
+        {
+          "date": "2025-06-06",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "amazon-brand-store-multicountry",
+      "eventKey": "amazon-brand-store-multicountry-2025",
+      "title": "Amazon, Brand Store 다국가 복제·자동 번역 도구 출시",
+      "category": "상세페이지·커머스",
+      "priority": "high",
+      "publishedAt": "2025-06-09",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/multi-country-expansion-tool"
+        }
+      ],
+      "summary": "Amazon Ads가 기존 Brand Store의 모든 에디션을 여러 국가로 복제하고 현지 주요 언어로 자동 번역하는 도구를 출시했다. 대상 국가에서 판매되지 않는 ASIN은 자동 제외되며 광고주가 번역과 크리에이티브를 게시 전 수정할 수 있다.",
+      "changes": "국가별 스토어를 수동 재구축·번역하던 작업이 복제와 자동 현지화 중심으로 바뀌었다.",
+      "application": "한국 브랜드는 자동 번역 후 제품명·효능·법정 고지·단위와 현지 금칙 표현을 원어민 검수하고 국가별 미판매 SKU로 생기는 빈 레이아웃을 확인한다.",
+      "tags": [
+        "Amazon Brand Store",
+        "자동 번역",
+        "글로벌 확장",
+        "현지화"
+      ],
+      "history": [
+        {
+          "date": "2025-06-09",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "pinterest-auto-collages-trends",
+      "eventKey": "pinterest-cannes-auto-collages-2025",
+      "title": "Pinterest, AI 쇼핑 콜라주와 구매 트렌드 예측 공개",
+      "category": "광고 디자인",
+      "priority": "high",
+      "publishedAt": "2025-06-11",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Pinterest Newsroom",
+          "url": "https://newsroom.pinterest.com/en-ca/news/introducing-auto-collages-shopping-and-trend-forecasting-cannes-2025/"
+        }
+      ],
+      "summary": "Pinterest가 상품 카탈로그를 수천 개의 쇼핑 가능한 콜라주로 자동 변환하는 Ad Labs 기능을 공개했다. Trends 도구도 검색뿐 아니라 저장·보드 큐레이션·쇼핑 데이터를 반영하도록 강화했다.",
+      "changes": "정적 상품 핀과 검색량 중심 트렌드 분석에서 AI 조합형 크리에이티브와 구매 의도 신호를 함께 쓰는 방식으로 발전했다.",
+      "application": "패션몰은 상품 피드의 누끼 품질과 카테고리 속성을 정비한 뒤 코디 콜라주를 생성하고 잘못 조합된 사이즈·계절·재고를 검수한다.",
+      "tags": [
+        "Pinterest Ads",
+        "오토 콜라주",
+        "쇼핑 트렌드",
+        "상품 피드"
+      ],
+      "history": [
+        {
+          "date": "2025-06-11",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "adobe-creative-cloud-june-updates",
+      "eventKey": "adobe-creative-cloud-firefly-june-2025",
+      "title": "Adobe, Dynamic Text·Generative Expand·Firefly Boards 영상 기능 공개",
+      "category": "AI 도구",
+      "priority": "high",
+      "publishedAt": "2025-06-17",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Adobe Blog",
+          "url": "https://blog.adobe.com/en/publish/2025/06/17/create-ideate-faster-with-new-creative-cloud-firefly-innovations"
+        }
+      ],
+      "summary": "Adobe가 Photoshop Dynamic Text와 클라우드 기반 선택, Illustrator의 편집 가능한 벡터 Generative Expand를 공개했다. Firefly Boards에는 영상 생성과 Ideogram·Luma·Pika·Runway 모델 선택이 추가됐다.",
+      "changes": "래스터 이미지 확장을 넘어 벡터 아트보드와 타이포그래피, 협업 무드보드 영상까지 생성형 기능이 확대됐다.",
+      "application": "배너 비율 변환은 벡터 Generative Expand로 초안을 만들고 로고 형태, 여백, 텍스트 리플로와 인쇄용 패스를 수동 확인한다.",
+      "tags": [
+        "Adobe Illustrator",
+        "Generative Expand",
+        "Dynamic Text",
+        "Firefly Boards"
+      ],
+      "history": [
+        {
+          "date": "2025-06-17",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    },
+    {
+      "id": "google-commerce-media-beta",
+      "eventKey": "google-commerce-media-suite-beta-2025",
+      "title": "Google Commerce Media 제품군 베타 출시",
+      "category": "상세페이지·커머스",
+      "priority": "normal",
+      "publishedAt": "2025-06-18",
+      "checkedAt": "2026-10-26",
+      "status": "verified",
+      "sources": [
+        {
+          "name": "Google Ads & Commerce Blog",
+          "url": "https://blog.google/products/ads-commerce/were-bringing-googles-commerce-media-suite-to-brands-and-retailers/"
+        }
+      ],
+      "summary": "Google이 브랜드와 리테일러를 연결하는 Commerce Media 솔루션을 베타로 출시했다. Search·Shopping·Demand Gen, YouTube 외부 확장, 온·오프라인 매출 및 상품 단위 측정을 지원한다.",
+      "changes": "리테일 미디어가 개별 쇼핑몰 내부 광고에서 Google 광고 지면과 판매 데이터 측정을 연결하는 제품군으로 확장됐다.",
+      "application": "리테일러와 브랜드는 카탈로그 공유 권한, 상품 단위 매출 데이터, 오프사이트 소재 규격을 합의하고 캠페인별 증분 효과를 별도 측정한다.",
+      "tags": [
+        "Google Commerce Media",
+        "리테일 미디어",
+        "상품 측정",
+        "YouTube"
+      ],
+      "history": [
+        {
+          "date": "2025-06-18",
+          "note": "최초 발표"
+        },
+        {
+          "date": "2026-10-26",
+          "note": "원문 출처와 변경 내용 확인"
+        }
+      ]
+    }
+  ]
+}
