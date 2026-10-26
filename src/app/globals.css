@@ -55,10 +55,8 @@ button, a, input, select { outline-offset: 3px; }
 .nav-list { display: flex; gap: 1.6rem; list-style: none; padding: 0; margin: 0; color: var(--muted); font-size: .9rem; font-weight: 650; }
 .nav-list a:hover, .nav-list a:focus-visible { color: var(--accent-dark); }
 
-.hero-section { padding: 7.5rem 0 6rem; border-bottom: 1px solid var(--line); overflow: hidden; }
-.hero-grid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(260px, .5fr); gap: clamp(3rem, 8vw, 8rem); align-items: end; }
 .eyebrow { margin: 0 0 1rem; color: var(--accent-dark); font-size: .72rem; line-height: 1.2; font-weight: 800; letter-spacing: .15em; }
-.hero-section h1, .page-hero h1 {
+.page-hero h1 {
   margin: 0;
   max-width: 900px;
   font-size: clamp(2.9rem, 7vw, 6.9rem);
@@ -66,17 +64,11 @@ button, a, input, select { outline-offset: 3px; }
   letter-spacing: -.075em;
   font-weight: 760;
 }
-.hero-copy { max-width: 620px; margin: 2rem 0 0; font-size: clamp(1rem, 2vw, 1.25rem); color: var(--muted); word-break: keep-all; }
-.hero-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 2.2rem; }
 .button { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: .75rem 1.2rem; border: 1px solid var(--ink); border-radius: 999px; cursor: pointer; font-size: .9rem; font-weight: 750; }
 .button-primary { color: white; background: var(--ink); }
 .button-primary:hover { background: var(--accent-dark); border-color: var(--accent-dark); }
 .button-secondary { background: transparent; }
 .button-secondary:hover { background: var(--surface); }
-.hero-note { border-top: 2px solid var(--ink); padding-top: 1rem; }
-.hero-note > span { font-size: .66rem; letter-spacing: .16em; color: var(--muted); }
-.hero-note strong { display: block; margin: 1.2rem 0; font-family: Georgia, "Times New Roman", serif; font-size: 1.5rem; line-height: 1.35; font-weight: 500; }
-.hero-note p { margin: 0; color: var(--muted); font-size: .9rem; }
 
 .section { padding-block: 6rem; }
 .section-tight { padding-block: 3.4rem; }
@@ -193,8 +185,6 @@ button, a, input, select { outline-offset: 3px; }
   .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .lead-grid, .quarter-grid, .quarter-hero, .detail-grid { grid-template-columns: 1fr; }
   .category-grid { grid-template-columns: repeat(2, 1fr); }
-  .hero-grid { grid-template-columns: 1fr; }
-  .hero-note { max-width: 520px; }
   .source-panel { position: static; }
   .filter-panel { grid-template-columns: 1fr 1fr; }
   .search-field { grid-column: 1 / -1; }
@@ -206,8 +196,7 @@ button, a, input, select { outline-offset: 3px; }
   .brand > span:last-child { display: none; }
   .nav-list { gap: .85rem; font-size: .76rem; overflow-x: auto; }
   .nav-list li:nth-child(3) { display: none; }
-  .hero-section { padding: 4.5rem 0 4rem; }
-  .hero-section h1, .page-hero h1 { font-size: clamp(2.6rem, 14vw, 4.3rem); }
+  .page-hero h1 { font-size: clamp(2.6rem, 14vw, 4.3rem); }
   .section { padding-block: 4rem; }
   .section-tight { padding-block: 2.6rem; }
   .section-heading { align-items: flex-start; }

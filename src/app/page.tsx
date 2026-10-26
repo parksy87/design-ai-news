@@ -19,30 +19,6 @@ export default function Home() {
 
   return (
     <>
-      <section className="hero-section">
-        <div className="shell hero-grid">
-          <div>
-            <p className="eyebrow">DESIGN · COMMERCE · AI</p>
-            <h1>변화를 수집하고,<br />실무의 다음 수를 정합니다.</h1>
-            <p className="hero-copy">
-              상세페이지, 광고 디자인, 플랫폼 정책과 AI 도구의 실제 변화를
-              원문 출처와 함께 추적합니다.
-            </p>
-            <div className="hero-actions">
-              <Link className="button button-primary" href={latestPeriod ? `/monthly/${latestPeriod}` : "/archive"}>
-                최신 월간 브리핑
-              </Link>
-              <Link className="button button-secondary" href="/archive">전체 기록 검색</Link>
-            </div>
-          </div>
-          <aside className="hero-note" aria-label="편집 원칙">
-            <span>EDITORIAL NOTE</span>
-            <strong>새로운 정보가 없으면<br />억지로 채우지 않습니다.</strong>
-            <p>발표일과 확인일을 구분하고, 이전과 달라진 점이 있을 때만 기록합니다.</p>
-          </aside>
-        </div>
-      </section>
-
       <section className="section shell">
         <div className="section-heading">
           <div>

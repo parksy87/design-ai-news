@@ -56,7 +56,6 @@ export default async function QuarterlyPage({ params }: PageProps<"/quarterly/[p
         <InsightList title="상세페이지·광고 변화" items={issue.commerceChanges} />
         <InsightList title="AI 도구 활용 변화" items={issue.aiChanges} />
         <InsightList title="실무 적용 우선순위" items={issue.priorities} />
-        <InsightList title="다음 분기 준비 사항" items={issue.nextQuarter} />
       </div>
 
       <section className="related-months">
